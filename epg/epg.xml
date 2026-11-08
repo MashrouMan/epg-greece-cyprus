@@ -5013,10 +5013,6 @@
     <desc lang="el">No data available for this date</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261108090000 +0200" stop="20261108110000 +0200" channel="sportfm_tv1">
-    <title lang="el">VIKOS ΦALCONS – ΑΕΚ</title>
-    <desc lang="el">GBL MD5</desc>
-  </programme>
   <programme start="20261108110000 +0200" stop="20261108130000 +0200" channel="sportfm_tv1">
     <title lang="el">Άρης – Παναθηναϊκός AKTOR</title>
     <desc lang="el">GBL MD5</desc>
