@@ -1,8 +1,9 @@
 import { antennaSource } from './sources/antenna.js';
+import { sportfmSource } from './sources/sportfmtv.js';
 import type { EpgSource } from './types.js';
 
 /** All configured EPG sources. Add new adapters here. */
-export const SOURCES: readonly EpgSource[] = [antennaSource];
+export const SOURCES: readonly EpgSource[] = [antennaSource, sportfmSource];
 
 export function selectSources(ids?: string[]): EpgSource[] {
   if (!ids || ids.length === 0) {

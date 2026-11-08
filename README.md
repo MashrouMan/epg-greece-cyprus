@@ -35,6 +35,20 @@ A GitHub Action regenerates them every day and commits the result.
 Channel ids are stable slugs, so they do not change when antenna.gr changes its
 internal channel keys.
 
+### sportfmtv.gr
+
+| XMLTV id | Channel | Notes |
+| --- | --- | --- |
+| `sportfm_tv1` | SPORT FM TV 1 | Free, sign-in required |
+| `sportfm_tv2` | SPORT FM TV 2 | Event channel |
+| `sportfm_tv3` | SPORT FM TV 3 | Event channel |
+| `sportfm_tv4` | SPORT FM TV 4 | Event channel |
+| `sportfm_tv5` | SPORT FM TV 5 | Event channel |
+| `sportfm_tv6` | SPORT FM TV 6 | Event channel, no listings yet |
+
+The event channels only carry programmes when a match or show is scheduled, so
+they can be empty for part of the week.
+
 ## Usage
 
 ```bash
@@ -64,6 +78,7 @@ Programmes are parsed from official broadcaster EPG endpoints:
 
 - [antenna.gr](https://www.antenna.gr/tvguide) — ANT1, Makedonia TV, Ant1 Comedy,
   Ant1 Drama, ANT1+ Sports, Fight, Padel Time
+- [sportfmtv.gr](https://www.sportfmtv.gr/el/guide) — SPORT FM TV 1–6
 
 More Greek and Cypriot sources will be added over time. Each source is an
 adapter in `src/sources/` implementing the `EpgSource` interface and registered
@@ -76,9 +91,9 @@ npm run typecheck
 npm test
 ```
 
-The test suite covers the antenna.gr payload mapping, Athens time-zone
-conversion, XML escaping/XMLTV structure, gzip round-tripping, and cross-source
-merging.
+The test suite covers the antenna.gr and sportfmtv.gr payload mapping, Athens
+time-zone conversion, XML escaping/XMLTV structure, gzip round-tripping, and
+cross-source merging.
 
 ### Adding a source
 

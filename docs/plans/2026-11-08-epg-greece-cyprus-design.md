@@ -45,13 +45,42 @@ Mapping to stable XMLTV ids:
 
 Normalisation rules:
 
-- Timestamps without an offset are `Europe/Athens` wall time; timestamps with
-  an offset are absolute.
+- Timestamps are UTC. Values without an offset are treated as UTC (matching
+  antenna.gr's own tvguide page, which appends `Z`), and explicit offsets are
+  honoured.
 - Duplicate events (same channel, start, title) keep the longest version.
 - Events whose end precedes their start are assumed to cross midnight and get
   a 24-hour correction.
 - Empty synopses/genres are omitted; XML is escaped.
 - The shared ANT1 placeholder logo is not emitted as a programme icon.
+
+## Source: sportfmtv.gr
+
+`https://www.sportfmtv.gr/el/guide` is a SvelteKit/YinzCam app. The guide is
+loaded from an AWS AppSync GraphQL API:
+
+- Public client config: `https://www.sportfmtv.gr/_ott/amplify-config.json`
+  provides the endpoint, API key, and `tenantId` (`VENUE_PAO`).
+- Query: `listPublicProgramGuide(tenant_id, window_from, window_to,
+  channel_id, limit)`.
+- The adapter queries each channel separately for a seven-day window, so the
+  200-row response limit cannot silently drop channels.
+
+Mapping to stable XMLTV ids:
+
+| Upstream channel | XMLTV id |
+| --- | --- |
+| SPORT FM TV 1 | `sportfm_tv1` |
+| SPORT FM TV 2 | `sportfm_tv2` |
+| SPORT FM TV 3 | `sportfm_tv3` |
+| SPORT FM TV 4 | `sportfm_tv4` |
+| SPORT FM TV 5 | `sportfm_tv5` |
+| SPORT FM TV 6 | `sportfm_tv6` |
+
+Timestamps from the API are absolute UTC instants (`broadcast_start`,
+`end_time`). Entries without a usable end time get a two-hour fallback. Event
+channels only carry rows while something is scheduled, so empty channels are
+expected.
 
 ## Output and automation
 
@@ -66,6 +95,8 @@ generate, and commit `epg/` when it changed.
 
 - Fixture-based antenna.gr parsing, including malformed dates, duplicates,
   midnight crossing, and placeholder icons.
+- Fixture-based sportfmtv.gr GraphQL parsing, including unknown channels,
+  missing end times, and per-channel request failures.
 - EET/EEST conversion and XMLTV timestamp formatting.
 - XML escaping, document structure, and gzip round-trip.
 - Cross-source merging and ordering.

@@ -7,3 +7,9 @@ ant1plus_sports2
 ant1plus_sports3
 ant1plus_fight
 ant1plus_padel
+sportfm_tv1
+sportfm_tv2
+sportfm_tv3
+sportfm_tv4
+sportfm_tv5
+sportfm_tv6
