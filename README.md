@@ -9,9 +9,9 @@ XMLTV EPG for Greek and Cypriot channels, generated from official broadcaster we
 The generated files live in [`epg/`](epg/):
 
 ```
-https://raw.githubusercontent.com/tvappshq/epg-greece-cyprus/main/epg/epg.xml.gz
-https://raw.githubusercontent.com/tvappshq/epg-greece-cyprus/main/epg/epg.xml
-https://raw.githubusercontent.com/tvappshq/epg-greece-cyprus/main/epg/channel-list.txt
+https://raw.githubusercontent.com/MashrouMan/epg-greece-cyprus/main/epg/epg.xml.gz
+https://raw.githubusercontent.com/MashrouMan/epg-greece-cyprus/main/epg/epg.xml
+https://raw.githubusercontent.com/MashrouMan/epg-greece-cyprus/main/epg/channel-list.txt
 ```
 
 A GitHub Action regenerates them every day and commits the result.
