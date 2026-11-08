@@ -1,0 +1,54 @@
+{
+  "ch1": [
+    {
+      "eventID": "1001",
+      "title": "Πρωινό & Νέα",
+      "genre": "ΕΙΔΗΣΕΙΣ",
+      "synopsis": "Περιγραφή <δοκιμή> \"quote\"",
+      "startDate": "2026-11-08T03:00:00",
+      "endDate": "2026-11-08T04:00:00",
+      "imageSeries": "https://example.com/programme.jpg"
+    },
+    {
+      "eventID": "1001",
+      "title": "Πρωινό & Νέα",
+      "genre": "ΕΙΔΗΣΕΙΣ",
+      "synopsis": "Περιγραφή <δοκιμή> \"quote\"",
+      "startDate": "2026-11-08T03:00:00",
+      "endDate": "2026-11-08T04:30:00",
+      "imageSeries": "https://example.com/programme.jpg"
+    },
+    {
+      "eventID": "1002",
+      "title": "Δεύτερη εκπομπή",
+      "startDate": "2026-11-08T04:30:00",
+      "endDate": "2026-11-08T05:00:00",
+      "imageSeries": "https://www.antenna.gr/images/logo_ant1.jpg"
+    },
+    {
+      "eventID": "1003",
+      "title": "Λάθος ημερομηνία",
+      "startDate": "not-a-date",
+      "endDate": "2026-11-08T05:00:00"
+    }
+  ],
+  "ch9": [
+    {
+      "eventID": "9001",
+      "title": "Padel",
+      "startDate": "2026-11-08T00:00:00+02:00",
+      "endDate": "2026-11-08T01:00:00+02:00"
+    },
+    {
+      "eventID": "9002",
+      "title": "Late night",
+      "startDate": "2026-11-08T23:00:00+02:00",
+      "endDate": "2026-11-08T00:30:00+02:00"
+    }
+  ],
+  "extra": [
+    {
+      "eventID": "x"
+    }
+  ]
+}
