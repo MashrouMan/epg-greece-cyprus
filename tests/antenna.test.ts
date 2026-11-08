@@ -39,11 +39,11 @@ describe('parseAntennaPayload', () => {
   it('deduplicates repeated events, keeping the longest version', () => {
     const first = result.programmes[0]!;
     expect(first.title).toBe('Πρωινό & Νέα');
-    expect(first.stop.toISOString()).toBe('2026-11-08T02:30:00.000Z');
+    expect(first.stop.toISOString()).toBe('2026-11-08T04:30:00.000Z');
   });
 
-  it('converts naïve and offset timestamps correctly', () => {
-    expect(result.programmes[0]!.start.toISOString()).toBe('2026-11-08T01:00:00.000Z');
+  it('treats naïve timestamps as UTC and honours explicit offsets', () => {
+    expect(result.programmes[0]!.start.toISOString()).toBe('2026-11-08T03:00:00.000Z');
     expect(result.programmes[2]!.start.toISOString()).toBe('2026-11-07T22:00:00.000Z');
   });
 
