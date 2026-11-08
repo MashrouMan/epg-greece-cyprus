@@ -52,6 +52,19 @@ function programmeIcon(value: unknown): string | undefined {
   return icon;
 }
 
+const HAS_OFFSET = /(?:Z|[+-]\d{2}:?\d{2})$/i;
+
+/**
+ * antenna.gr's EPG handler returns UTC timestamps without an offset. Its
+ * tvguide page appends "Z" before parsing them (see `parseApiDate` in
+ * antenna.gr's tvguide.js), so honour explicit offsets and treat naïve values
+ * as UTC rather than Athens wall time.
+ */
+function parseAntennaDate(raw: string): Date {
+  const trimmed = raw.trim();
+  return parseAthensDate(HAS_OFFSET.test(trimmed) ? trimmed : `${trimmed}Z`);
+}
+
 /** Parse the JSON payload returned by https://www.antenna.gr/EPGHandler_.ashx */
 export function parseAntennaPayload(payload: unknown): SourceResult {
   if (!payload || typeof payload !== 'object' || Array.isArray(payload)) {
@@ -91,8 +104,8 @@ export function parseAntennaPayload(payload: unknown): SourceResult {
       let start: Date;
       let stop: Date;
       try {
-        start = parseAthensDate(startRaw);
-        stop = parseAthensDate(stopRaw);
+        start = parseAntennaDate(startRaw);
+        stop = parseAntennaDate(stopRaw);
       } catch (error) {
         warnings.push(`${channelKey}/${eventId}: ${(error as Error).message}`);
         continue;
