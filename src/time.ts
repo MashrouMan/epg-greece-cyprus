@@ -44,9 +44,10 @@ export function timeZoneOffsetMinutes(instant: Date, timeZone = ATHENS): number 
 /**
  * Parse a timestamp from an upstream EPG.
  *
- * Timestamps without an explicit offset are wall-clock times in
- * Europe/Athens (the convention used by antenna.gr). Timestamps with an
- * offset or `Z` are parsed as absolute instants.
+ * Timestamps without an explicit offset are treated as wall-clock times in
+ * Europe/Athens. Timestamps with an offset or `Z` are parsed as absolute
+ * instants. Callers whose upstream returns naïve UTC timestamps must append
+ * `Z` before calling this function.
  */
 export function parseAthensDate(raw: string): Date {
   const match = DATE_PATTERN.exec(raw.trim());
