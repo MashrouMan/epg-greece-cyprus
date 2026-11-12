@@ -51,11 +51,11 @@
   </channel>
   <channel id="sportfm_tv4">
     <display-name>SPORT FM TV 4</display-name>
-    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1790939327085-SportFM_TV4_logo_1024.jpg"/>
+    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-4.svg"/>
   </channel>
   <channel id="sportfm_tv5">
     <display-name>SPORT FM TV 5</display-name>
-    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1790939352517-SportFM_TV5_logo_1024.jpg"/>
+    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-5.svg"/>
   </channel>
   <channel id="sportfm_tv6">
     <display-name>SPORT FM TV 6</display-name>
@@ -4837,49 +4837,6 @@
     <desc lang="el">No data available for this date</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261111100000 +0200" stop="20261111120000 +0200" channel="sportfm_tv1">
-    <title lang="el">HIGHLIGHTS</title>
-  </programme>
-  <programme start="20261111120000 +0200" stop="20261111140000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρκό - Ολυμπιακός</title>
-    <desc lang="el">League Phase Κύπελλο Ελλάδας</desc>
-  </programme>
-  <programme start="20261111140000 +0200" stop="20261111160000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρούσι - Ολυμπιακός</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261111160000 +0200" stop="20261111180000 +0200" channel="sportfm_tv1">
-    <title lang="el">Ηρακλής - Μύκονος Betsson</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261111180000 +0200" stop="20261111203000 +0200" channel="sportfm_tv1">
-    <title lang="el">Νέφτσι – Μύκονος Betsson BC (LIVE)</title>
-    <desc lang="el">FIBA Europe Cup · 6η αγωνιστική · Τετάρτη 11/11, 18:00 · Ζωντανά</desc>
-  </programme>
-  <programme start="20261111210000 +0200" stop="20261112000000 +0200" channel="sportfm_tv1">
-    <title lang="el">THE BALL BOYS (LIVE)</title>
-    <desc lang="el">Παρουσίαση: Παντέλης Διαμαντόπουλος – Μιχάλης Τσόχος</desc>
-  </programme>
-  <programme start="20261112000000 +0200" stop="20261112020000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός – ΑΕΚ</title>
-    <desc lang="el">Super League MD9</desc>
-  </programme>
-  <programme start="20261112020000 +0200" stop="20261112040000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρούσι – Ολυμπιακός</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261112040000 +0200" stop="20261112060000 +0200" channel="sportfm_tv1">
-    <title lang="el">Ηρακλής – Παναθηναϊκός</title>
-    <desc lang="el">Super League MD10</desc>
-  </programme>
-  <programme start="20261112060000 +0200" stop="20261112080000 +0200" channel="sportfm_tv1">
-    <title lang="el">Πανσερραϊκός – Νίκη Βόλου</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261112080000 +0200" stop="20261112100000 +0200" channel="sportfm_tv1">
-    <title lang="el">Δόξα Λευκάδας – Άρης</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
   <programme start="20261112100000 +0200" stop="20261112120000 +0200" channel="sportfm_tv1">
     <title lang="el">Βόλος – Ατρόμητος</title>
     <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
@@ -5076,10 +5033,6 @@
     <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
     <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
   </programme>
-  <programme start="20261111190000 +0200" stop="20261111213000 +0200" channel="sportfm_tv2">
-    <title lang="el">Ουνιβερσιτάτεα Κραϊόβα – Κολοσσός H Hotels Collection (LIVE)</title>
-    <desc lang="el">FIBA Europe Cup · 6η αγωνιστική · Τετάρτη 11/11, 19:00 · Ζωντανά</desc>
-  </programme>
   <programme start="20261114173000 +0200" stop="20261114200000 +0200" channel="sportfm_tv2">
     <title lang="el">Καρδίτσα Ιαπωνική – ΠΑΟΚ (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 7η αγωνιστική · Σάββατο 14/11, 17:30 · Ζωντανά</desc>
@@ -5088,10 +5041,6 @@
     <title lang="el">Περιστέρι Betsson – Μύκονος Betsson BC (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 7η αγωνιστική · Κυριακή 15/11, 13:00 · Ζωντανά</desc>
   </programme>
-  <programme start="20261111193000 +0200" stop="20261111210000 +0200" channel="sportfm_tv3">
-    <title lang="el">Παναθηναϊκός – Στεάουα Βουκουρεστίου (LIVE)</title>
-    <desc lang="el">Water Polo Champions League · 3η αγωνιστική · Τετάρτη 11/11, 19:30 · Ζωντανά</desc>
-  </programme>
   <programme start="20261114173000 +0200" stop="20261114200000 +0200" channel="sportfm_tv3">
     <title lang="el">Προμηθέας Πάτρας Βίκος Cola – Ηρακλής (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 7η αγωνιστική · Σάββατο 14/11, 17:30 · Ζωντανά</desc>
@@ -5099,13 +5048,5 @@
   <programme start="20261115160000 +0200" stop="20261115183000 +0200" channel="sportfm_tv3">
     <title lang="el">VIKOS ΦALCONS – Μαρούσι (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 7η αγωνιστική · Κυριακή 15/11, 16:00 · Ζωντανά</desc>
-  </programme>
-  <programme start="20261111190000 +0200" stop="20261111213000 +0200" channel="sportfm_tv4">
-    <title lang="el">Προμηθέας Πάτρας Βίκος Cola – Τρέπτσα (LIVE)</title>
-    <desc lang="el">FIBA Europe Cup · 6η αγωνιστική · Τετάρτη 11/11, 19:00 · Ζωντανά</desc>
-  </programme>
-  <programme start="20261111193000 +0200" stop="20261111220000 +0200" channel="sportfm_tv5">
-    <title lang="el">Ηρακλής – ΜΖΤ Σκοπίων Αεροντρόμ (LIVE)</title>
-    <desc lang="el">FIBA Europe Cup · 6η αγωνιστική · Τετάρτη 11/11, 19:30 · Ζωντανά</desc>
   </programme>
 </tv>
