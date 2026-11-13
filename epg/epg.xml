@@ -51,7 +51,7 @@
   </channel>
   <channel id="sportfm_tv4">
     <display-name>SPORT FM TV 4</display-name>
-    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-4.svg"/>
+    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1790939327085-SportFM_TV4_logo_1024.jpg"/>
   </channel>
   <channel id="sportfm_tv5">
     <display-name>SPORT FM TV 5</display-name>
@@ -61,90 +61,6 @@
     <display-name>SPORT FM TV 6</display-name>
     <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-6.svg"/>
   </channel>
-  <programme start="20261111050000 +0200" stop="20261111053000 +0200" channel="ant1">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111053000 +0200" stop="20261111060000 +0200" channel="ant1">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111060000 +0200" stop="20261111095000 +0200" channel="ant1">
-    <title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/f467f6bb-6a75-417a-9f09-cd2b0754d8c4.jpg"/>
-  </programme>
-  <programme start="20261111095000 +0200" stop="20261111130000 +0200" channel="ant1">
-    <title lang="el">ΤΟ ΠΡΩΙΝΟ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/d23a317a-4505-4eb1-ae69-0915de929db6.jpg"/>
-  </programme>
-  <programme start="20261111130000 +0200" stop="20261111133000 +0200" channel="ant1">
-    <title lang="el">ANT1 NEWS</title>
-    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
-  </programme>
-  <programme start="20261111133000 +0200" stop="20261111135000 +0200" channel="ant1">
-    <title lang="el">SMART FUTURE</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-  </programme>
-  <programme start="20261111135000 +0200" stop="20261111140000 +0200" channel="ant1">
-    <title lang="el">ANT1 NEWS - ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
-    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
-  </programme>
-  <programme start="20261111140000 +0200" stop="20261111163000 +0200" channel="ant1">
-    <title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/72208b76-f379-4209-ba5b-0e5cdb256b0e.jpg"/>
-  </programme>
-  <programme start="20261111163000 +0200" stop="20261111173000 +0200" channel="ant1">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111173000 +0200" stop="20261111184500 +0200" channel="ant1">
-    <title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title>
-    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
-  </programme>
-  <programme start="20261111184500 +0200" stop="20261111194000 +0200" channel="ant1">
-    <title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title>
-    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
-  </programme>
-  <programme start="20261111194000 +0200" stop="20261111200000 +0200" channel="ant1">
-    <title lang="el">ANT1 SPORTS</title>
-  </programme>
-  <programme start="20261111200000 +0200" stop="20261111210000 +0200" channel="ant1">
-    <title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ</title>
-    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/8fd10b22-c9bf-42a2-89b2-526382d870c1.jpg"/>
-  </programme>
-  <programme start="20261111210000 +0200" stop="20261111223000 +0200" channel="ant1">
-    <title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111223000 +0200" stop="20261112000000 +0200" channel="ant1">
-    <title lang="el">ΝΤΕΡΤΙ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112000000 +0200" stop="20261112020000 +0200" channel="ant1">
-    <title lang="el">ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/ac0fa6b0-1d7c-4f1a-9dbc-2f7383449505.jpg"/>
-  </programme>
-  <programme start="20261112020000 +0200" stop="20261112031500 +0200" channel="ant1">
-    <title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/4ed54092-049c-4be8-ba7c-56d32509028e.jpg"/>
-  </programme>
-  <programme start="20261112031500 +0200" stop="20261112040000 +0200" channel="ant1">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112040000 +0200" stop="20261112050000 +0200" channel="ant1">
-    <title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
   <programme start="20261112050000 +0200" stop="20261112053000 +0200" channel="ant1">
     <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
     <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
@@ -279,9 +195,8 @@
     <category lang="el">ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ</category>
   </programme>
   <programme start="20261113230000 +0200" stop="20261114004500 +0200" channel="ant1">
-    <title lang="el">THE ROADSHOW</title>
+    <title lang="el">THE 2NIGHT SHOW - BEST OF</title>
     <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/9a5efca2-0a8b-4228-a921-77e0842a3ba2.jpg"/>
   </programme>
   <programme start="20261114004500 +0200" stop="20261114014500 +0200" channel="ant1">
     <title lang="el">SUPER BALL SHOW</title>
@@ -643,116 +558,92 @@
     <title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111000000 +0200" stop="20261111010000 +0200" channel="makedonia_tv">
-    <title lang="el">LOVE IT OR LIST IT</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261118050000 +0200" stop="20261118053000 +0200" channel="ant1">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111070000 +0200" stop="20261111080000 +0200" channel="makedonia_tv">
-    <title lang="el">LOVE IT OR LIST IT</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261118053000 +0200" stop="20261118060000 +0200" channel="ant1">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111080000 +0200" stop="20261111083000 +0200" channel="makedonia_tv">
-    <title lang="el">STORAGE WARS</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261118060000 +0200" stop="20261118095000 +0200" channel="ant1">
+    <title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/f467f6bb-6a75-417a-9f09-cd2b0754d8c4.jpg"/>
   </programme>
-  <programme start="20261111083000 +0200" stop="20261111090000 +0200" channel="makedonia_tv">
-    <title lang="el">STORAGE WARS</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111090000 +0200" stop="20261111100000 +0200" channel="makedonia_tv">
-    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+  <programme start="20261118095000 +0200" stop="20261118130000 +0200" channel="ant1">
+    <title lang="el">ΤΟ ΠΡΩΙΝΟ</title>
     <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/d23a317a-4505-4eb1-ae69-0915de929db6.jpg"/>
   </programme>
-  <programme start="20261111100000 +0200" stop="20261111110000 +0200" channel="makedonia_tv">
-    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  <programme start="20261118130000 +0200" stop="20261118133000 +0200" channel="ant1">
+    <title lang="el">ANT1 NEWS</title>
+    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
   </programme>
-  <programme start="20261111110000 +0200" stop="20261111120000 +0200" channel="makedonia_tv">
-    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  <programme start="20261118133000 +0200" stop="20261118135000 +0200" channel="ant1">
+    <title lang="el">SMART FUTURE</title>
+    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
   </programme>
-  <programme start="20261111120000 +0200" stop="20261111130000 +0200" channel="makedonia_tv">
-    <title lang="el">THE BIGGEST LOSER</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261118135000 +0200" stop="20261118140000 +0200" channel="ant1">
+    <title lang="el">ANT1 NEWS - ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
+    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
   </programme>
-  <programme start="20261111130000 +0200" stop="20261111140000 +0200" channel="makedonia_tv">
-    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
+  <programme start="20261118140000 +0200" stop="20261118163000 +0200" channel="ant1">
+    <title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/72208b76-f379-4209-ba5b-0e5cdb256b0e.jpg"/>
+  </programme>
+  <programme start="20261118163000 +0200" stop="20261118173000 +0200" channel="ant1">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111140000 +0200" stop="20261111150000 +0200" channel="makedonia_tv">
-    <title lang="el">ΛΙΤΣΑ.COM</title>
+  <programme start="20261118173000 +0200" stop="20261118184500 +0200" channel="ant1">
+    <title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title>
+    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
+  </programme>
+  <programme start="20261118184500 +0200" stop="20261118194000 +0200" channel="ant1">
+    <title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title>
+    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
+  </programme>
+  <programme start="20261118194000 +0200" stop="20261118200000 +0200" channel="ant1">
+    <title lang="el">ANT1 SPORTS</title>
+  </programme>
+  <programme start="20261118200000 +0200" stop="20261118210000 +0200" channel="ant1">
+    <title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ</title>
+    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/8fd10b22-c9bf-42a2-89b2-526382d870c1.jpg"/>
+  </programme>
+  <programme start="20261118210000 +0200" stop="20261118223000 +0200" channel="ant1">
+    <title lang="el">ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111150000 +0200" stop="20261111160000 +0200" channel="makedonia_tv">
-    <title lang="el">ΛΙΤΣΑ.COM</title>
+  <programme start="20261118223000 +0200" stop="20261119000000 +0200" channel="ant1">
+    <title lang="el">ΝΤΕΡΤΙ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111160000 +0200" stop="20261111170000 +0200" channel="makedonia_tv">
-    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
+  <programme start="20261119000000 +0200" stop="20261119020000 +0200" channel="ant1">
+    <title lang="el">ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/ac0fa6b0-1d7c-4f1a-9dbc-2f7383449505.jpg"/>
+  </programme>
+  <programme start="20261119020000 +0200" stop="20261119031500 +0200" channel="ant1">
+    <title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/4ed54092-049c-4be8-ba7c-56d32509028e.jpg"/>
+  </programme>
+  <programme start="20261119031500 +0200" stop="20261119040000 +0200" channel="ant1">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111170000 +0200" stop="20261111180000 +0200" channel="makedonia_tv">
-    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
+  <programme start="20261119040000 +0200" stop="20261119050000 +0200" channel="ant1">
+    <title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111180000 +0200" stop="20261111190000 +0200" channel="makedonia_tv">
-    <title lang="el">ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111190000 +0200" stop="20261111200000 +0200" channel="makedonia_tv">
-    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111200000 +0200" stop="20261111210000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111210000 +0200" stop="20261111220000 +0200" channel="makedonia_tv">
-    <title lang="el">THE MENTALIST</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111220000 +0200" stop="20261111230000 +0200" channel="makedonia_tv">
-    <title lang="el">THE MENTALIST</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111230000 +0200" stop="20261112000000 +0200" channel="makedonia_tv">
-    <title lang="el">THE ROOKIE</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261112000000 +0200" stop="20261112010000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112000000 +0200" stop="20261112010000 +0200" channel="makedonia_tv">
     <title lang="el">LOVE IT OR LIST IT</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112010000 +0200" stop="20261112014500 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112014500 +0200" stop="20261112023000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112023000 +0200" stop="20261112031500 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112031500 +0200" stop="20261112040000 +0200" channel="makedonia_tv">
-    <title lang="el">GREY S ANATOMY</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112040000 +0200" stop="20261112044500 +0200" channel="makedonia_tv">
-    <title lang="el">ΣΤΗΝ ΕΝΤΑΤΙΚΗ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112044500 +0200" stop="20261112051500 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112051500 +0200" stop="20261112070000 +0200" channel="makedonia_tv">
-    <title lang="el">THE MENTALIST</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261112070000 +0200" stop="20261112080000 +0200" channel="makedonia_tv">
@@ -828,11 +719,11 @@
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261113000000 +0200" stop="20261113010000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <title lang="el">LOVE IT OR LIST IT</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261113000000 +0200" stop="20261113010000 +0200" channel="makedonia_tv">
-    <title lang="el">LOVE IT OR LIST IT</title>
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261113010000 +0200" stop="20261113014500 +0200" channel="makedonia_tv">
@@ -1399,162 +1290,113 @@
     <title lang="el">THE MENTALIST</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111060000 +0200" stop="20261111064500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
+  <programme start="20261118060000 +0200" stop="20261118070000 +0200" channel="makedonia_tv">
+    <title lang="el">LOVE IT OR LIST IT</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118070000 +0200" stop="20261118080000 +0200" channel="makedonia_tv">
+    <title lang="el">LOVE IT OR LIST IT</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118080000 +0200" stop="20261118083000 +0200" channel="makedonia_tv">
+    <title lang="el">STORAGE WARS</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118083000 +0200" stop="20261118090000 +0200" channel="makedonia_tv">
+    <title lang="el">STORAGE WARS</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118090000 +0200" stop="20261118100000 +0200" channel="makedonia_tv">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  </programme>
+  <programme start="20261118100000 +0200" stop="20261118110000 +0200" channel="makedonia_tv">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  </programme>
+  <programme start="20261118110000 +0200" stop="20261118120000 +0200" channel="makedonia_tv">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  </programme>
+  <programme start="20261118120000 +0200" stop="20261118130000 +0200" channel="makedonia_tv">
+    <title lang="el">THE BIGGEST LOSER</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118130000 +0200" stop="20261118140000 +0200" channel="makedonia_tv">
+    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111064500 +0200" stop="20261111073000 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
+  <programme start="20261118140000 +0200" stop="20261118150000 +0200" channel="makedonia_tv">
+    <title lang="el">ΛΙΤΣΑ.COM</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111073000 +0200" stop="20261111081500 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
+  <programme start="20261118150000 +0200" stop="20261118160000 +0200" channel="makedonia_tv">
+    <title lang="el">ΛΙΤΣΑ.COM</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111081500 +0200" stop="20261111090000 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
+  <programme start="20261118160000 +0200" stop="20261118170000 +0200" channel="makedonia_tv">
+    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111090000 +0200" stop="20261111094500 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
+  <programme start="20261118170000 +0200" stop="20261118180000 +0200" channel="makedonia_tv">
+    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111094500 +0200" stop="20261111103000 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
+  <programme start="20261118180000 +0200" stop="20261118190000 +0200" channel="makedonia_tv">
+    <title lang="el">ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111103000 +0200" stop="20261111111500 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
+  <programme start="20261118190000 +0200" stop="20261118200000 +0200" channel="makedonia_tv">
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111111500 +0200" stop="20261111114500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261118200000 +0200" stop="20261118210000 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111114500 +0200" stop="20261111121500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261118210000 +0200" stop="20261118220000 +0200" channel="makedonia_tv">
+    <title lang="el">THE MENTALIST</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111121500 +0200" stop="20261111130000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261118220000 +0200" stop="20261118230000 +0200" channel="makedonia_tv">
+    <title lang="el">THE MENTALIST</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111130000 +0200" stop="20261111134500 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261118230000 +0200" stop="20261119000000 +0200" channel="makedonia_tv">
+    <title lang="el">THE ROOKIE</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111134500 +0200" stop="20261111143000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119000000 +0200" stop="20261119010000 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111143000 +0200" stop="20261111151500 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119010000 +0200" stop="20261119014500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111151500 +0200" stop="20261111160000 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119014500 +0200" stop="20261119023000 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111160000 +0200" stop="20261111164500 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119023000 +0200" stop="20261119031500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111164500 +0200" stop="20261111173000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119031500 +0200" stop="20261119040000 +0200" channel="makedonia_tv">
+    <title lang="el">GREY S ANATOMY</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111173000 +0200" stop="20261111180000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119040000 +0200" stop="20261119044500 +0200" channel="makedonia_tv">
+    <title lang="el">ΣΤΗΝ ΕΝΤΑΤΙΚΗ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111180000 +0200" stop="20261111183000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119044500 +0200" stop="20261119051500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111183000 +0200" stop="20261111191500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111191500 +0200" stop="20261111201500 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111201500 +0200" stop="20261111210000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111210000 +0200" stop="20261111214500 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111214500 +0200" stop="20261111223000 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111223000 +0200" stop="20261111231500 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261111231500 +0200" stop="20261112001000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112001000 +0200" stop="20261112004000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112004000 +0200" stop="20261112011500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112011500 +0200" stop="20261112020000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112020000 +0200" stop="20261112024500 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112024500 +0200" stop="20261112033000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112033000 +0200" stop="20261112041500 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112041500 +0200" stop="20261112050000 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261112050000 +0200" stop="20261112060000 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261119051500 +0200" stop="20261119060000 +0200" channel="makedonia_tv">
+    <title lang="el">THE MENTALIST</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261112060000 +0200" stop="20261112064500 +0200" channel="ant1_comedy">
     <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
@@ -2498,133 +2340,162 @@
     <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111060000 +0200" stop="20261111064500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261118060000 +0200" stop="20261118064500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111064500 +0200" stop="20261111073000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261118064500 +0200" stop="20261118073000 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111073000 +0200" stop="20261111081500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261118073000 +0200" stop="20261118081500 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111081500 +0200" stop="20261111090000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261118081500 +0200" stop="20261118090000 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111090000 +0200" stop="20261111094500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261118090000 +0200" stop="20261118094500 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111094500 +0200" stop="20261111103000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261118094500 +0200" stop="20261118103000 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111103000 +0200" stop="20261111111500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261118103000 +0200" stop="20261118111500 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111111500 +0200" stop="20261111120000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
-  </programme>
-  <programme start="20261111120000 +0200" stop="20261111124500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261118111500 +0200" stop="20261118114500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111124500 +0200" stop="20261111133000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261118114500 +0200" stop="20261118121500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111133000 +0200" stop="20261111141500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261118121500 +0200" stop="20261118130000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111141500 +0200" stop="20261111150000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261118130000 +0200" stop="20261118134500 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111150000 +0200" stop="20261111154500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261118134500 +0200" stop="20261118143000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111154500 +0200" stop="20261111163000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261118143000 +0200" stop="20261118151500 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111163000 +0200" stop="20261111171500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261118151500 +0200" stop="20261118160000 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111171500 +0200" stop="20261111180000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
-  </programme>
-  <programme start="20261111180000 +0200" stop="20261111184500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261118160000 +0200" stop="20261118164500 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111184500 +0200" stop="20261111193000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261118164500 +0200" stop="20261118173000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111193000 +0200" stop="20261111201500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261118173000 +0200" stop="20261118180000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111201500 +0200" stop="20261111210000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261118180000 +0200" stop="20261118183000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111210000 +0200" stop="20261111214500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261118183000 +0200" stop="20261118191500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111214500 +0200" stop="20261111223000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261118191500 +0200" stop="20261118201500 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111223000 +0200" stop="20261111231500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261118201500 +0200" stop="20261118210000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111231500 +0200" stop="20261112000000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
-  </programme>
-  <programme start="20261112000000 +0200" stop="20261112004500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261118210000 +0200" stop="20261118214500 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112004500 +0200" stop="20261112013000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261118214500 +0200" stop="20261118223000 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112013000 +0200" stop="20261112021500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261118223000 +0200" stop="20261118231500 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112021500 +0200" stop="20261112030000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261118231500 +0200" stop="20261119001000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112030000 +0200" stop="20261112034500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261119001000 +0200" stop="20261119004000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112034500 +0200" stop="20261112043000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261119004000 +0200" stop="20261119011500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112043000 +0200" stop="20261112051500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261119011500 +0200" stop="20261119020000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112051500 +0200" stop="20261112060000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  <programme start="20261119020000 +0200" stop="20261119024500 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119024500 +0200" stop="20261119033000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119033000 +0200" stop="20261119041500 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119041500 +0200" stop="20261119050000 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119050000 +0200" stop="20261119060000 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261112060000 +0200" stop="20261112064500 +0200" channel="ant1_drama">
     <title lang="el">ΜΠΡΟΥΣΚΟ</title>
@@ -3394,69 +3265,133 @@
   <programme start="20261118051500 +0200" stop="20261118060000 +0200" channel="ant1_drama">
     <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
-  <programme start="20261111060000 +0200" stop="20261111070000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE FORMULA 1 ΑΝΑΣΚΟΠΗΣΗ 2025</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118060000 +0200" stop="20261118064500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111070000 +0200" stop="20261111100000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 |</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118064500 +0200" stop="20261118073000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111100000 +0200" stop="20261111141000 +0200" channel="ant1plus_sports1">
-    <title lang="el">NASCAR CUP SERIES | Xfinity 500</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118073000 +0200" stop="20261118081500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111141000 +0200" stop="20261111160000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE Βραζιλία</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118081500 +0200" stop="20261118090000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111160000 +0200" stop="20261111175000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 2 | FORMULA 2 - BAKU 2026 - RACE 1</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118090000 +0200" stop="20261118094500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111175000 +0200" stop="20261111192000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 2 | FORMULA 2 - BAKU 2026 - RACE 2</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118094500 +0200" stop="20261118103000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111192000 +0200" stop="20261111194000 +0200" channel="ant1plus_sports1">
-    <title lang="el">CHASING THE DREAM | Monza</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118103000 +0200" stop="20261118111500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111194000 +0200" stop="20261111200000 +0200" channel="ant1plus_sports1">
-    <title lang="el">CHASING THE DREAM | Madrid</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118111500 +0200" stop="20261118120000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
-  <programme start="20261111200000 +0200" stop="20261111202000 +0200" channel="ant1plus_sports1">
-    <title lang="el">CHASING THE DREAM | Azerbaijan</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118120000 +0200" stop="20261118124500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111202000 +0200" stop="20261111211000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SUPERBIKES 2026 | Spanish - World SPB - Race 1</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118124500 +0200" stop="20261118133000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111211000 +0200" stop="20261111221000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SUPERBIKES 2026 | Spanish - World SPB - Race 2</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118133000 +0200" stop="20261118141500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111221000 +0200" stop="20261111232000 +0200" channel="ant1plus_sports1">
-    <title lang="el">PREMIUM EVENTS | KUMHO FIA TCR WORLD TOUR 2026 - ZHEJIANG CHINA - R</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118141500 +0200" stop="20261118150000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261111232000 +0200" stop="20261112003000 +0200" channel="ant1plus_sports1">
-    <title lang="el">PREMIUM EVENTS | KUMHO FIA TCR WORLD TOUR 2026 - ZHEJIANG CHINA - R</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118150000 +0200" stop="20261118154500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112003000 +0200" stop="20261112014000 +0200" channel="ant1plus_sports1">
-    <title lang="el">PREMIUM EVENTS | KUMHO FIA TCR WORLD TOUR 2026 - ZHEJIANG CHINA - R</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118154500 +0200" stop="20261118163000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112014000 +0200" stop="20261112052000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 REVIEW | Season Review 2002</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118163000 +0200" stop="20261118171500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261112052000 +0200" stop="20261112060000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261118171500 +0200" stop="20261118180000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261118180000 +0200" stop="20261118184500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118184500 +0200" stop="20261118193000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118193000 +0200" stop="20261118201500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118201500 +0200" stop="20261118210000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118210000 +0200" stop="20261118214500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118214500 +0200" stop="20261118223000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118223000 +0200" stop="20261118231500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261118231500 +0200" stop="20261119000000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261119000000 +0200" stop="20261119004500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119004500 +0200" stop="20261119013000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119013000 +0200" stop="20261119021500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119021500 +0200" stop="20261119030000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119030000 +0200" stop="20261119034500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119034500 +0200" stop="20261119043000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119043000 +0200" stop="20261119051500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261119051500 +0200" stop="20261119060000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
   <programme start="20261112060000 +0200" stop="20261112100000 +0200" channel="ant1plus_sports1">
     <title lang="el">SPORTS CARD 1 |</title>
@@ -3567,7 +3502,7 @@
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261114064000 +0200" stop="20261114100000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 |</title>
+    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261114100000 +0200" stop="20261114120000 +0200" channel="ant1plus_sports1">
@@ -3590,23 +3525,19 @@
     <title lang="el">PREMIUM EVENTS | GT World Challenge Europe - Round 04 Crowdstrike 2</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261114190000 +0200" stop="20261114230000 +0200" channel="ant1plus_sports1">
-    <title lang="el">NASCAR CUP SERIES | Championship Race</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
-  </programme>
-  <programme start="20261114230000 +0200" stop="20261115000000 +0200" channel="ant1plus_sports1">
+  <programme start="20261114190000 +0200" stop="20261114200000 +0200" channel="ant1plus_sports1">
     <title lang="el">FOOTBALL STORIES | Σεράγεβο</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261115000000 +0200" stop="20261115010000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FOOTBALL STORIES | Σεβίλλη</title>
+  <programme start="20261114200000 +0200" stop="20261114203000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | Roc D&apos;azur Cic 2026 - Highlights</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261115010000 +0200" stop="20261115032000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE Σιγκαπούρη</title>
+  <programme start="20261114203000 +0200" stop="20261115025000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | HSR Daytona Classic 24HRS - Day 1</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261115032000 +0200" stop="20261115060000 +0200" channel="ant1plus_sports1">
+  <programme start="20261115025000 +0200" stop="20261115060000 +0200" channel="ant1plus_sports1">
     <title lang="el">FORMULA 1 REVIEW | Season Review 2006</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
@@ -3650,44 +3581,177 @@
     <title lang="el">FORMULA 1 | FEATURE RACE Μεξικό</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111060000 +0200" stop="20261111064000 +0200" channel="ant1plus_sports2">
-    <title lang="el">CAGE WARRIORS</title>
-    <desc lang="el">Cage Warriors 206</desc>
+  <programme start="20261116060000 +0200" stop="20261116071000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 | FEATURE RACE Μεξικό</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111064000 +0200" stop="20261111100000 +0200" channel="ant1plus_sports2">
-    <title lang="el">SPORTS CARD 2</title>
+  <programme start="20261116071000 +0200" stop="20261116100000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111100000 +0200" stop="20261111103000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL SPORTS</title>
-    <desc lang="el">Red Bull Ultimate Rush Ep05</desc>
+  <programme start="20261116100000 +0200" stop="20261116130000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 | FEATURE RACE Μεξικό</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111103000 +0200" stop="20261111110000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL SPORTS</title>
-    <desc lang="el">Red Bull Ultimate Rush Ep06</desc>
+  <programme start="20261116130000 +0200" stop="20261116160000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 REVIEW | Season Review 2004</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111110000 +0200" stop="20261111125000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
-    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 3 - P</desc>
+  <programme start="20261116160000 +0200" stop="20261116163000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PORSCHE MOBIL 1 SUPERCUP | PORSCHE MOBIL 1 SUPERCUP 2026 | ROUND 5: HUNGARY</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111125000 +0200" stop="20261111144000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
-    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 4 - C</desc>
+  <programme start="20261116163000 +0200" stop="20261116170000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PORSCHE MOBIL 1 SUPERCUP | PORSCHE MOBIL 1 SUPERCUP 2026 | ROUND 6: NETHERLAN</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111144000 +0200" stop="20261111163000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
-    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 5 -</desc>
+  <programme start="20261116170000 +0200" stop="20261116180000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERBIKES 2026 | Spanish - World WCR - Race 2</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111163000 +0200" stop="20261111233000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">PFL Global 2026 - Chicago 2</desc>
+  <programme start="20261116180000 +0200" stop="20261116200000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERCARS 2026 | Penrile Oil Sandown 500</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261111233000 +0200" stop="20261112025000 +0200" channel="ant1plus_sports2">
-    <title lang="el">CAGE WARRIORS</title>
-    <desc lang="el">Cage Warriors 208</desc>
+  <programme start="20261116200000 +0200" stop="20261116235000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR CUP SERIES | Championship Race</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261112025000 +0200" stop="20261112060000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">PFL Global Pittsburg</desc>
+  <programme start="20261116235000 +0200" stop="20261117005000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | GT World Challenge Europe - Round 9 Barcelona - Ra</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117005000 +0200" stop="20261117042000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 REVIEW | Season Review 2006</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117042000 +0200" stop="20261117053000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | KUMHO FIA TCR WORLD TOUR 2026 - ZHEJIANG CHINA - R</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117053000 +0200" stop="20261117060000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117060000 +0200" stop="20261117100000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117100000 +0200" stop="20261117110000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FOOTBALL STORIES | Σεράγεβο</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117110000 +0200" stop="20261117120000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FOOTBALL STORIES | Σεβίλλη</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117120000 +0200" stop="20261117162000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 REVIEW | Season Review 2014</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117162000 +0200" stop="20261117163000 +0200" channel="ant1plus_sports1">
+    <title lang="el">RED BULL ERZBERGRODEO | Practising for erzberg</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117163000 +0200" stop="20261117180000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 | QUALIFYING</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117180000 +0200" stop="20261117183000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERBIKES 2026 | Spanish - World WCR - Superpole</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117183000 +0200" stop="20261117193000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERBIKES 2026 | Spanish - World WCR - Race 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117193000 +0200" stop="20261117203000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERBIKES 2026 | Spanish - World WCR - Race 2</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117203000 +0200" stop="20261117213000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | GT World Challenge Europe - Round 9 Barcelona - Ra</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117213000 +0200" stop="20261117230000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR EURO SERIES | Spain - Round 1 - V8GP Race 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261117230000 +0200" stop="20261118004000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR EURO SERIES | Spain - Round 1 - V8GP Race 2</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118004000 +0200" stop="20261118043000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 | FEATURE RACE Μαλαισία</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118043000 +0200" stop="20261118060000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 REVIEW | Season Review 1990</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118060000 +0200" stop="20261118100000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118100000 +0200" stop="20261118114000 +0200" channel="ant1plus_sports1">
+    <title lang="el">F1 KIDS | F1 Kids Singaore - Sprint Race</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118114000 +0200" stop="20261118120000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Silverstone</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118120000 +0200" stop="20261118122000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Spa - Francorchamps</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118122000 +0200" stop="20261118124000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Budapest</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118124000 +0200" stop="20261118134000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | Rallye ola Energy du maroc - Highlights</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118134000 +0200" stop="20261118154000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERCARS 2026 | Penrile Oil Sandown 500</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118154000 +0200" stop="20261118180000 +0200" channel="ant1plus_sports1">
+    <title lang="el">F1 KIDS | F1 Kids Singaore - Race</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118180000 +0200" stop="20261118182000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Monza</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118182000 +0200" stop="20261118184000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Madrid</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118184000 +0200" stop="20261118190000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Azerbaijan</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118190000 +0200" stop="20261118203000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR EURO SERIES | Belgium - Finals - Race 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118203000 +0200" stop="20261118220000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR EURO SERIES | Belgium - Finals - Race 2</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118220000 +0200" stop="20261118231000 +0200" channel="ant1plus_sports1">
+    <title lang="el">PREMIUM EVENTS | KUMHO FIA TCR WORLD TOUR 2026 - ZHEJIANG CHINA - R</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261118231000 +0200" stop="20261119053000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 REVIEW | Season Review 2021</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261119053000 +0200" stop="20261119060000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261112060000 +0200" stop="20261112074000 +0200" channel="ant1plus_sports2">
     <title lang="el">PFL MMA</title>
@@ -3919,11 +3983,136 @@
     <title lang="el">PFL MMA</title>
     <desc lang="el">PFL Global Pittsburg - Highlights</desc>
   </programme>
-  <programme start="20261111060000 +0200" stop="20261111180000 +0200" channel="ant1plus_sports3">
-    <title lang="el">RED BULL SPORTS</title>
+  <programme start="20261116060000 +0200" stop="20261116064000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Global Pittsburg - Highlights</desc>
   </programme>
-  <programme start="20261111180000 +0200" stop="20261112060000 +0200" channel="ant1plus_sports3">
+  <programme start="20261116064000 +0200" stop="20261116100000 +0200" channel="ant1plus_sports2">
+    <title lang="el">SPORTS CARD 2</title>
+    <desc lang="el">Sports Card 2</desc>
+  </programme>
+  <programme start="20261116100000 +0200" stop="20261116103000 +0200" channel="ant1plus_sports2">
     <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull the Clip Show - Ep07</desc>
+  </programme>
+  <programme start="20261116103000 +0200" stop="20261116110000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull the Clip Show - Ep08</desc>
+  </programme>
+  <programme start="20261116110000 +0200" stop="20261116113000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RAINBOW DIVE</title>
+    <desc lang="el">RAINBOW DIVE</desc>
+  </programme>
+  <programme start="20261116113000 +0200" stop="20261116120000 +0200" channel="ant1plus_sports2">
+    <title lang="el">ONE WITH THE WATER</title>
+    <desc lang="el">ONE WITH THE WATER</desc>
+  </programme>
+  <programme start="20261116120000 +0200" stop="20261116125000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CLIFF HUNTER</title>
+    <desc lang="el">CLIFF HUNTER</desc>
+  </programme>
+  <programme start="20261116125000 +0200" stop="20261116171000 +0200" channel="ant1plus_sports2">
+    <title lang="el">BRAVE CF</title>
+    <desc lang="el">Brave CF - 108 PULA</desc>
+    <category lang="el">ΑΘΛΗΤΙΚΕΣ ΜΕΤΑΔΟΣΕΙΣ</category>
+  </programme>
+  <programme start="20261116171000 +0200" stop="20261116205000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 212</desc>
+  </programme>
+  <programme start="20261116205000 +0200" stop="20261117025000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Global 2026 - Dubai</desc>
+  </programme>
+  <programme start="20261117025000 +0200" stop="20261117060000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 206</desc>
+  </programme>
+  <programme start="20261117060000 +0200" stop="20261117064000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 206</desc>
+  </programme>
+  <programme start="20261117064000 +0200" stop="20261117100000 +0200" channel="ant1plus_sports2">
+    <title lang="el">SPORTS CARD 2</title>
+    <desc lang="el">Sports Card 2</desc>
+  </programme>
+  <programme start="20261117100000 +0200" stop="20261117103000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep09</desc>
+  </programme>
+  <programme start="20261117103000 +0200" stop="20261117110000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep10</desc>
+  </programme>
+  <programme start="20261117110000 +0200" stop="20261117125000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 1 - A</desc>
+  </programme>
+  <programme start="20261117125000 +0200" stop="20261117145000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 2 - B</desc>
+  </programme>
+  <programme start="20261117145000 +0200" stop="20261117153000 +0200" channel="ant1plus_sports2">
+    <title lang="el">MCP WARRIOR</title>
+    <desc lang="el">Episode 13</desc>
+    <category lang="el">ΑΘΛΗΤΙΚΕΣ ΜΕΤΑΔΟΣΕΙΣ</category>
+  </programme>
+  <programme start="20261117153000 +0200" stop="20261117163000 +0200" channel="ant1plus_sports2">
+    <title lang="el">MCP WARRIOR</title>
+    <desc lang="el">Episode 14</desc>
+    <category lang="el">ΑΘΛΗΤΙΚΕΣ ΜΕΤΑΔΟΣΕΙΣ</category>
+  </programme>
+  <programme start="20261117163000 +0200" stop="20261117202000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PREMIUM EVENTS</title>
+    <desc lang="el">MCP 16: NIGHT OF THE WARRIORS</desc>
+  </programme>
+  <programme start="20261117202000 +0200" stop="20261118012000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 213</desc>
+  </programme>
+  <programme start="20261118012000 +0200" stop="20261118060000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">Rkena Hosting PFL</desc>
+  </programme>
+  <programme start="20261118060000 +0200" stop="20261118065000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">Rkena Hosting PFL</desc>
+  </programme>
+  <programme start="20261118065000 +0200" stop="20261118100000 +0200" channel="ant1plus_sports2">
+    <title lang="el">SPORTS CARD 2</title>
+    <desc lang="el">Sports Card 2</desc>
+  </programme>
+  <programme start="20261118100000 +0200" stop="20261118103000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep01</desc>
+  </programme>
+  <programme start="20261118103000 +0200" stop="20261118110000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep02</desc>
+  </programme>
+  <programme start="20261118110000 +0200" stop="20261118125000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 3 - P</desc>
+  </programme>
+  <programme start="20261118125000 +0200" stop="20261118144000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 4 - C</desc>
+  </programme>
+  <programme start="20261118144000 +0200" stop="20261118163000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving World Series 2024 Stop 5 -</desc>
+  </programme>
+  <programme start="20261118163000 +0200" stop="20261118204000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Mena 11 - Last Man Standing</desc>
+  </programme>
+  <programme start="20261118204000 +0200" stop="20261119003000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 211</desc>
+  </programme>
+  <programme start="20261119003000 +0200" stop="20261119060000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Global 2026 - Chicago 2</desc>
   </programme>
   <programme start="20261112060000 +0200" stop="20261112180000 +0200" channel="ant1plus_sports3">
     <title lang="el">RED BULL SPORTS</title>
@@ -3967,105 +4156,11 @@
   <programme start="20261117180000 +0200" stop="20261118060000 +0200" channel="ant1plus_sports3">
     <title lang="el">RED BULL SPORTS</title>
   </programme>
-  <programme start="20261111020000 +0200" stop="20261111030000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">Riding a 13-fight win streak, Islam Mamedov continues his impressive run as we move from the WSOF to</desc>
-    <category lang="el">FIGHT</category>
+  <programme start="20261118060000 +0200" stop="20261118180000 +0200" channel="ant1plus_sports3">
+    <title lang="el">RED BULL SPORTS</title>
   </programme>
-  <programme start="20261111030000 +0200" stop="20261111060000 +0200" channel="ant1plus_fight">
-    <title lang="el">BKB 59: Mexico</title>
-    <desc lang="el">September 19, 2026. Featuring Julian Fernandez in bare-knuckle boxing action from Tijuana, Mexico.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111060000 +0200" stop="20261111070000 +0200" channel="ant1plus_fight">
-    <title lang="el">BYB: Bare Knuckle Brawls - BYB&apos;s London Debut: Driver vs. Dreiling</title>
-    <desc lang="el">&quot;The Red Queen Jamie Driver and &quot;&quot;Red&quot;&quot; Sonya Dreiling make history in the first sanctioned female b</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111070000 +0200" stop="20261111080000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">Riding a 13-fight win streak, Islam Mamedov continues his impressive run as we move from the WSOF to</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111080000 +0200" stop="20261111090000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">Bubba Jenkins finally meets 2x PFL Champion Lance Palmer in the Smartcage, his childhood and NCAA ri</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111090000 +0200" stop="20261111100000 +0200" channel="ant1plus_fight">
-    <title lang="el">Fight Network Recharged - Lion Fight Knockouts Vol. 7</title>
-    <desc lang="el">Fight Network Recharged presents the best knockouts from Lion Fight.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111100000 +0200" stop="20261111110000 +0200" channel="ant1plus_fight">
-    <title lang="el">Fight Network Recharged - Lion Fight Knockouts Vol. 8</title>
-    <desc lang="el">Fight Network Recharged presents the best knockouts from Lion Fight.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111110000 +0200" stop="20261111120000 +0200" channel="ant1plus_fight">
-    <title lang="el">Fight Network Recharged - First Round KOs Vol.2</title>
-    <desc lang="el">These fighters aren&apos;t wasting any time in this episode of FN Recharged as we profile some of the bes</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111120000 +0200" stop="20261111130000 +0200" channel="ant1plus_fight">
-    <title lang="el">Fight Network Recharged - First Round KOs Vol. 3</title>
-    <desc lang="el">These fighters aren&apos;t wasting any time in this episode of FN Recharged as we profile some of the bes</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111130000 +0200" stop="20261111140000 +0200" channel="ant1plus_fight">
-    <title lang="el">Pancrase in 60 - Minowaman</title>
-    <desc lang="el">With more than 40 Pancrase fights on his resume, Ikuhisa Minowa has established himself as one of Ja</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111140000 +0200" stop="20261111150000 +0200" channel="ant1plus_fight">
-    <title lang="el">ISKA 2026: US Open - World Breaking Championship</title>
-    <desc lang="el">July 4, 2026. Featuring the breaking championship from the ISKA World Martial Arts Championship in O</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111150000 +0200" stop="20261111153000 +0200" channel="ant1plus_fight">
-    <title lang="el">Tristar Stories - The History</title>
-    <desc lang="el">Find out how Tristar Gym came into existence at a challenging time when the sport was seen as barbar</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111153000 +0200" stop="20261111160000 +0200" channel="ant1plus_fight">
-    <title lang="el">Diary: Rosemary</title>
-    <desc lang="el">For the first time, Impact star Rosemary chronicles the early part of her career and shares personal</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111160000 +0200" stop="20261111170000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">Bubba Jenkins finally meets 2x PFL Champion Lance Palmer in the Smartcage, his childhood and NCAA ri</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111170000 +0200" stop="20261111173000 +0200" channel="ant1plus_fight">
-    <title lang="el">After The Fight - GLORY 59 Amsterdam</title>
-    <desc lang="el">An inside look at what happened behind-the-scenes capturing the aftermath from GLORY 59 Amsterdam.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111173000 +0200" stop="20261111180000 +0200" channel="ant1plus_fight">
-    <title lang="el">Immersed - KC Navarro: Worth the Fight</title>
-    <desc lang="el">&quot;After a major injury and surgery, KC Navarro fights his way back to TNA with something to prove. Bu</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111180000 +0200" stop="20261111200000 +0200" channel="ant1plus_fight">
-    <title lang="el">IMPACT on Spike S9</title>
-    <desc lang="el">IMPACT Wrestling&apos;s flagship weekly show broadcast on Spike TV, featuring iconic stars such as Hulk H</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111200000 +0200" stop="20261111220000 +0200" channel="ant1plus_fight">
-    <title lang="el">IMPACT on Spike S9</title>
-    <desc lang="el">IMPACT Wrestling&apos;s flagship weekly show broadcast on Spike TV, featuring iconic stars such as Hulk H</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111220000 +0200" stop="20261111230000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">MMA fighters don&apos;t get paid by the hour and PFL fighters earn points for Fast Finishes like these.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261111230000 +0200" stop="20261112000000 +0200" channel="ant1plus_fight">
-    <title lang="el">Pancrase in 60 - Minowaman</title>
-    <desc lang="el">With more than 40 Pancrase fights on his resume, Ikuhisa Minowa has established himself as one of Ja</desc>
-    <category lang="el">FIGHT</category>
+  <programme start="20261118180000 +0200" stop="20261119060000 +0200" channel="ant1plus_sports3">
+    <title lang="el">RED BULL SPORTS</title>
   </programme>
   <programme start="20261112000000 +0200" stop="20261112010000 +0200" channel="ant1plus_fight">
     <title lang="el">IMPACT in 60 - Eddie Edwards Part 2</title>
@@ -4802,9 +4897,104 @@
     <desc lang="el">September 23, 2022. Featuring a main event clash between lighrweight standouts Peter Queally and Ben</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261111000000 +0200" stop="20261111235959 +0200" channel="ant1plus_padel">
-    <title lang="el">PADELTV</title>
-    <desc lang="el">No data available for this date</desc>
+  <programme start="20261118020000 +0200" stop="20261118030000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">Sometimes, it just isn&apos;t your night inside the SmartCage. Check out these spectacular performances f</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118030000 +0200" stop="20261118060000 +0200" channel="ant1plus_fight">
+    <title lang="el">BKB 61: London</title>
+    <desc lang="el">November 14, 2026. Featuring Lee Selby in bare-knuckle boxing action from The O2 in London, England.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118060000 +0200" stop="20261118070000 +0200" channel="ant1plus_fight">
+    <title lang="el">BYB: Bare Knuckle Brawls - BYB&apos;s London Debut: Nelson vs. Decastro</title>
+    <desc lang="el">&quot;BYB makes its London debut as LT &quot;&quot;Smash&quot;&quot; Nelson heads to the UK to face British boxing champion N</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118070000 +0200" stop="20261118080000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">Sometimes, it just isn&apos;t your night inside the SmartCage. Check out these spectacular performances f</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118080000 +0200" stop="20261118090000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">&quot;Special delivery coming your way courtesy of &quot;&quot;The Postman&quot;&quot; Dilano Taylor! This Welterweight made</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118090000 +0200" stop="20261118100000 +0200" channel="ant1plus_fight">
+    <title lang="el">Fight Network Recharged - Lion Fight Knockouts Vol. 9</title>
+    <desc lang="el">Fight Network Recharged presents the best knockouts from Lion Fight.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118100000 +0200" stop="20261118110000 +0200" channel="ant1plus_fight">
+    <title lang="el">Fight Network Recharged - Lion Fight Knockouts Vol. 10</title>
+    <desc lang="el">Fight Network Recharged presents the best knockouts from Lion Fight.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118110000 +0200" stop="20261118120000 +0200" channel="ant1plus_fight">
+    <title lang="el">Fight Network Recharged - Kevin Ross Part 1</title>
+    <desc lang="el">Featuring the best of &apos;The Soul Assassin&apos; from his time with Lion Fight.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118120000 +0200" stop="20261118130000 +0200" channel="ant1plus_fight">
+    <title lang="el">Fight Network Recharged - Kevin Ross Part 2</title>
+    <desc lang="el">Featuring the best of &apos;The Soul Assassin&apos; from his time with Lion Fight.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118130000 +0200" stop="20261118140000 +0200" channel="ant1plus_fight">
+    <title lang="el">Pancrase in 60 - Guy Mezger</title>
+    <desc lang="el">A look at how Guy Mezger cut his teeth in the Pancrase organization in Japan before going on to beco</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118140000 +0200" stop="20261118150000 +0200" channel="ant1plus_fight">
+    <title lang="el">ISKA 2026: US Open - Part 1/3</title>
+    <desc lang="el">July 2, 2026. Featuring the ISKA World Martial Arts Championship from Orlando, Florida.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118150000 +0200" stop="20261118153000 +0200" channel="ant1plus_fight">
+    <title lang="el">Tristar Stories - GSP and the Next Generation</title>
+    <desc lang="el">Georges St-Pierre sheds his secrets with the next generation of Tristar Gym competitors.</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118153000 +0200" stop="20261118160000 +0200" channel="ant1plus_fight">
+    <title lang="el">Diary: Bhupinder Gujjar</title>
+    <desc lang="el">Indian-born Bhupinder Gujjar shares the struggles of uprooting his life to a new country and reveali</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118160000 +0200" stop="20261118170000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">&quot;Special delivery coming your way courtesy of &quot;&quot;The Postman&quot;&quot; Dilano Taylor! This Welterweight made</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118170000 +0200" stop="20261118173000 +0200" channel="ant1plus_fight">
+    <title lang="el">After The Fight - GLORY 60 Lyon</title>
+    <desc lang="el">A behind-the-scenes look at the aftermath from GLORY 60 Lyon on Oct. 20 in Lyon, France, following s</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118173000 +0200" stop="20261118180000 +0200" channel="ant1plus_fight">
+    <title lang="el">Immersed - Invicta FC 44</title>
+    <desc lang="el">This episode follows Invicta FC Strawweight Champion Emily Ducote on the night of her fight that lea</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118180000 +0200" stop="20261118200000 +0200" channel="ant1plus_fight">
+    <title lang="el">IMPACT on Spike S9</title>
+    <desc lang="el">IMPACT Wrestling&apos;s flagship weekly show broadcast on Spike TV, featuring iconic stars such as Hulk H</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118200000 +0200" stop="20261118220000 +0200" channel="ant1plus_fight">
+    <title lang="el">IMPACT on Spike S9</title>
+    <desc lang="el">IMPACT Wrestling&apos;s flagship weekly show broadcast on Spike TV, featuring iconic stars such as Hulk H</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118220000 +0200" stop="20261118230000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">So, you want to be a PFL fighter? First, you&apos;ll need to impress the celebrity panel with a spectacul</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261118230000 +0200" stop="20261119000000 +0200" channel="ant1plus_fight">
+    <title lang="el">Pancrase in 60 - Guy Mezger</title>
+    <desc lang="el">A look at how Guy Mezger cut his teeth in the Pancrase organization in Japan before going on to beco</desc>
     <category lang="el">FIGHT</category>
   </programme>
   <programme start="20261112000000 +0200" stop="20261112235959 +0200" channel="ant1plus_padel">
@@ -4837,57 +5027,10 @@
     <desc lang="el">No data available for this date</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261112100000 +0200" stop="20261112120000 +0200" channel="sportfm_tv1">
-    <title lang="el">Βόλος – Ατρόμητος</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261112120000 +0200" stop="20261112140000 +0200" channel="sportfm_tv1">
-    <title lang="el">Κολοσσός H Hotels Collection – Περιστέρι Betsson</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261112140000 +0200" stop="20261112160000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261112160000 +0200" stop="20261112180000 +0200" channel="sportfm_tv1">
-    <title lang="el">Ηρακλής – Μύκονος Betsson BC</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261112180000 +0200" stop="20261112200000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός – Άρης</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261112200000 +0200" stop="20261112220000 +0200" channel="sportfm_tv1">
-    <title lang="el">Προμηθέας Πάτρας Βίκος Cola – Καρδίτσα Ιαπωνική</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261112220000 +0200" stop="20261112231500 +0200" channel="sportfm_tv1">
-    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
-    <desc lang="el">Στιγμιότυπα</desc>
-  </programme>
-  <programme start="20261112231500 +0200" stop="20261113010000 +0200" channel="sportfm_tv1">
-    <title lang="el">THE BALL BOYS (LIVE)</title>
-    <desc lang="el">Παρουσίαση: Παντέλης Διαμαντόπουλος – Κώστας Ψάρρας</desc>
-  </programme>
-  <programme start="20261113010000 +0200" stop="20261113030000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΠΑΟΚ – VIKOS ΦALCONS</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261113030000 +0200" stop="20261113050000 +0200" channel="sportfm_tv1">
-    <title lang="el">Νέστος Χρυσούπολης – Καλαμάτα</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261113050000 +0200" stop="20261113060000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
-    <desc lang="el">Στιγμιότυπα</desc>
-  </programme>
-  <programme start="20261113060000 +0200" stop="20261113080000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρούσι – Ολυμπιακός</title>
-    <desc lang="el">GBL MD6</desc>
-  </programme>
-  <programme start="20261113080000 +0200" stop="20261113100000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρκό – Ολυμπιακός</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261118000000 +0200" stop="20261118235959 +0200" channel="ant1plus_padel">
+    <title lang="el">PADELTV</title>
+    <desc lang="el">No data available for this date</desc>
+    <category lang="el">FIGHT</category>
   </programme>
   <programme start="20261113100000 +0200" stop="20261113120000 +0200" channel="sportfm_tv1">
     <title lang="el">ΑΕΚ – Παναθηναϊκός AKTOR</title>
@@ -4961,29 +5104,25 @@
     <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
     <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
   </programme>
-  <programme start="20261114210000 +0200" stop="20261114223000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός – Παλαιό Φάληρο (LIVE)</title>
-    <desc lang="el">Πόλο Α1 Ανδρών · 8η αγωνιστική · Σάββατο 14/11, 21:00 · Ζωντανά</desc>
+  <programme start="20261114210000 +0200" stop="20261114230000 +0200" channel="sportfm_tv1">
+    <title lang="el">Αστέρας Aktor - Κηφισιά</title>
+    <desc lang="el">League Phase Κύπελλο Ελλάδας</desc>
   </programme>
-  <programme start="20261114223000 +0200" stop="20261115003000 +0200" channel="sportfm_tv1">
-    <title lang="el">Ηρακλής – Παναθηναϊκός</title>
+  <programme start="20261114230000 +0200" stop="20261115010000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής - Παναθηναϊκός</title>
     <desc lang="el">Super League MD10</desc>
   </programme>
-  <programme start="20261115003000 +0200" stop="20261115023000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΑΕΚ – Δόξα Λευκάδας</title>
+  <programme start="20261115010000 +0200" stop="20261115030000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΑΕΚ - Δόξα Λευκάδας Elabet</title>
     <desc lang="el">GBL MD7</desc>
   </programme>
-  <programme start="20261115023000 +0200" stop="20261115043000 +0200" channel="sportfm_tv1">
-    <title lang="el">Βόλος – Ατρόμητος</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261115030000 +0200" stop="20261115050000 +0200" channel="sportfm_tv1">
+    <title lang="el">Βόλος - Ατρόμητος</title>
+    <desc lang="el">League Phase Κύπελλο Ελλάδας</desc>
   </programme>
-  <programme start="20261115043000 +0200" stop="20261115063000 +0200" channel="sportfm_tv1">
-    <title lang="el">Καρδίτσα Ιαπωνική – ΠΑΟΚ</title>
+  <programme start="20261115050000 +0200" stop="20261115070000 +0200" channel="sportfm_tv1">
+    <title lang="el">Καρδίτσα Ιαπωνική - ΠΑΟΚ</title>
     <desc lang="el">GBL MD7</desc>
-  </programme>
-  <programme start="20261115063000 +0200" stop="20261115070000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
-    <desc lang="el">Στιγμιότυπα</desc>
   </programme>
   <programme start="20261115070000 +0200" stop="20261115090000 +0200" channel="sportfm_tv1">
     <title lang="el">Προμηθέας Πάτρας Βίκος Cola – Ηρακλής</title>
@@ -5048,5 +5187,9 @@
   <programme start="20261115160000 +0200" stop="20261115183000 +0200" channel="sportfm_tv3">
     <title lang="el">VIKOS ΦALCONS – Μαρούσι (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 7η αγωνιστική · Κυριακή 15/11, 16:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261114190000 +0200" stop="20261114210000 +0200" channel="sportfm_tv4">
+    <title lang="el">Παναθηναϊκός – Παλαιό Φάληρο (LIVE)</title>
+    <desc lang="el">Water Polo League · 8η αγωνιστική · Σάββατο 14/11, 19:00 · Ζωντανά</desc>
   </programme>
 </tv>
