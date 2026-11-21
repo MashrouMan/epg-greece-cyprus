@@ -61,82 +61,6 @@
     <display-name>SPORT FM TV 6</display-name>
     <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-6.svg"/>
   </channel>
-  <programme start="20261119050000 +0200" stop="20261119053000 +0200" channel="ant1">
-    <title lang="el">ΕΛΛΗ ΚΑΙ ΑΝΝΑ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ: Κάκια Iγεριvoύ ΣΚΗΝΟΘΕΣIΑ: Ερρίκoς Αvδρέoυ ΜΟΥΣIΚΗ: Πλάτωv Αvδριτσάκης ΣΚΗΝΟΓΡΑΦIΑ: Τ</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119053000 +0200" stop="20261119060000 +0200" channel="ant1">
-    <title lang="el">ΕΛΛΗ ΚΑΙ ΑΝΝΑ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ: Κάκια Iγεριvoύ ΣΚΗΝΟΘΕΣIΑ: Ερρίκoς Αvδρέoυ ΜΟΥΣIΚΗ: Πλάτωv Αvδριτσάκης ΣΚΗΝΟΓΡΑΦIΑ: Τ</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119060000 +0200" stop="20261119095000 +0200" channel="ant1">
-    <title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/f467f6bb-6a75-417a-9f09-cd2b0754d8c4.jpg"/>
-  </programme>
-  <programme start="20261119095000 +0200" stop="20261119130000 +0200" channel="ant1">
-    <title lang="el">ΤΟ ΠΡΩΙΝΟ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/d23a317a-4505-4eb1-ae69-0915de929db6.jpg"/>
-  </programme>
-  <programme start="20261119130000 +0200" stop="20261119135000 +0200" channel="ant1">
-    <title lang="el">ANT1 NEWS</title>
-    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
-  </programme>
-  <programme start="20261119135000 +0200" stop="20261119140000 +0200" channel="ant1">
-    <title lang="el">ANT1 NEWS - ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
-    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
-  </programme>
-  <programme start="20261119140000 +0200" stop="20261119163000 +0200" channel="ant1">
-    <title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/72208b76-f379-4209-ba5b-0e5cdb256b0e.jpg"/>
-  </programme>
-  <programme start="20261119163000 +0200" stop="20261119173000 +0200" channel="ant1">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119173000 +0200" stop="20261119184500 +0200" channel="ant1">
-    <title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title>
-    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
-  </programme>
-  <programme start="20261119184500 +0200" stop="20261119194000 +0200" channel="ant1">
-    <title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title>
-    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
-  </programme>
-  <programme start="20261119194000 +0200" stop="20261119200000 +0200" channel="ant1">
-    <title lang="el">ANT1 SPORTS</title>
-  </programme>
-  <programme start="20261119200000 +0200" stop="20261119210000 +0200" channel="ant1">
-    <title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ</title>
-    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/8fd10b22-c9bf-42a2-89b2-526382d870c1.jpg"/>
-  </programme>
-  <programme start="20261119210000 +0200" stop="20261120000000 +0200" channel="ant1">
-    <title lang="el">ΜΑΧΗΤΕΣ ΤΩΝ ΔΡΟΜΩΝ: ΛΗΣΤΕΙΑ ΣΤΟ ΡΙΟ</title>
-    <category lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</category>
-  </programme>
-  <programme start="20261120000000 +0200" stop="20261120020000 +0200" channel="ant1">
-    <title lang="el">ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/63bcf867-9d2b-41ae-8228-aafed001bcbe.jpg"/>
-  </programme>
-  <programme start="20261120020000 +0200" stop="20261120031500 +0200" channel="ant1">
-    <title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-    <icon src="https://www.antenna.gr/imgHandler/1000/4ed54092-049c-4be8-ba7c-56d32509028e.jpg"/>
-  </programme>
-  <programme start="20261120031500 +0200" stop="20261120040000 +0200" channel="ant1">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120040000 +0200" stop="20261120050000 +0200" channel="ant1">
-    <title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
   <programme start="20261120050000 +0200" stop="20261120053000 +0200" channel="ant1">
     <title lang="el">ΕΛΛΗ ΚΑΙ ΑΝΝΑ</title>
     <desc lang="el">ΣΕΝΑΡIΟ: Κάκια Iγεριvoύ ΣΚΗΝΟΘΕΣIΑ: Ερρίκoς Αvδρέoυ ΜΟΥΣIΚΗ: Πλάτωv Αvδριτσάκης ΣΚΗΝΟΓΡΑΦIΑ: Τ</desc>
@@ -641,115 +565,80 @@
     <title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119000000 +0200" stop="20261119010000 +0200" channel="makedonia_tv">
-    <title lang="el">LOVE IT OR LIST IT</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261126050000 +0200" stop="20261126053000 +0200" channel="ant1">
+    <title lang="el">ΕΛΛΗ ΚΑΙ ΑΝΝΑ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ: Κάκια Iγεριvoύ ΣΚΗΝΟΘΕΣIΑ: Ερρίκoς Αvδρέoυ ΜΟΥΣIΚΗ: Πλάτωv Αvδριτσάκης ΣΚΗΝΟΓΡΑΦIΑ: Τ</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119070000 +0200" stop="20261119080000 +0200" channel="makedonia_tv">
-    <title lang="el">LOVE IT OR LIST IT</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261126053000 +0200" stop="20261126060000 +0200" channel="ant1">
+    <title lang="el">ΕΛΛΗ ΚΑΙ ΑΝΝΑ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ: Κάκια Iγεριvoύ ΣΚΗΝΟΘΕΣIΑ: Ερρίκoς Αvδρέoυ ΜΟΥΣIΚΗ: Πλάτωv Αvδριτσάκης ΣΚΗΝΟΓΡΑΦIΑ: Τ</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119080000 +0200" stop="20261119083000 +0200" channel="makedonia_tv">
-    <title lang="el">STORAGE WARS</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261126060000 +0200" stop="20261126095000 +0200" channel="ant1">
+    <title lang="el">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/f467f6bb-6a75-417a-9f09-cd2b0754d8c4.jpg"/>
   </programme>
-  <programme start="20261119083000 +0200" stop="20261119090000 +0200" channel="makedonia_tv">
-    <title lang="el">STORAGE WARS</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119090000 +0200" stop="20261119100000 +0200" channel="makedonia_tv">
-    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+  <programme start="20261126095000 +0200" stop="20261126130000 +0200" channel="ant1">
+    <title lang="el">ΤΟ ΠΡΩΙΝΟ</title>
     <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/d23a317a-4505-4eb1-ae69-0915de929db6.jpg"/>
   </programme>
-  <programme start="20261119100000 +0200" stop="20261119110000 +0200" channel="makedonia_tv">
-    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  <programme start="20261126130000 +0200" stop="20261126135000 +0200" channel="ant1">
+    <title lang="el">ANT1 NEWS</title>
+    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
   </programme>
-  <programme start="20261119110000 +0200" stop="20261119120000 +0200" channel="makedonia_tv">
-    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
-    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  <programme start="20261126135000 +0200" stop="20261126140000 +0200" channel="ant1">
+    <title lang="el">ANT1 NEWS - ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
+    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
   </programme>
-  <programme start="20261119120000 +0200" stop="20261119130000 +0200" channel="makedonia_tv">
-    <title lang="el">THE BIGGEST LOSER</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  <programme start="20261126140000 +0200" stop="20261126163000 +0200" channel="ant1">
+    <title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΕΝΗΜΕΡΩΤ. ΕΚΠΟΜΠΕΣ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/72208b76-f379-4209-ba5b-0e5cdb256b0e.jpg"/>
   </programme>
-  <programme start="20261119130000 +0200" stop="20261119140000 +0200" channel="makedonia_tv">
-    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
+  <programme start="20261126163000 +0200" stop="20261126174500 +0200" channel="ant1">
+    <title lang="el">ΚΑΤΙ ΨΗΝΕΤΑΙ</title>
+    <category lang="el">ΤΗΛΕΠΑΙΧΝΙΔΙ</category>
+  </programme>
+  <programme start="20261126174500 +0200" stop="20261126184000 +0200" channel="ant1">
+    <title lang="el">ANT1 NEWS - ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ</title>
+    <category lang="el">ΕΙΔΗΣΕΙΣ</category>
+  </programme>
+  <programme start="20261126184000 +0200" stop="20261126190000 +0200" channel="ant1">
+    <title lang="el">ANT1 SPORTS</title>
+  </programme>
+  <programme start="20261126190000 +0200" stop="20261126194500 +0200" channel="ant1">
+    <title lang="el">PRE GAME SHOW</title>
+    <category lang="el">ΑΘΛΗΤΙΚΗ ΕΝΗΜΕΡΩΤΙΚΗ</category>
+  </programme>
+  <programme start="20261126194500 +0200" stop="20261126220000 +0200" channel="ant1">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΣ - ΜΙΛΑΝ</title>
+    <category lang="el">ΠΟΔΟΣΦΑΙΡΟ</category>
+  </programme>
+  <programme start="20261126220000 +0200" stop="20261127000000 +0200" channel="ant1">
+    <title lang="el">Ο ΠΡΟΣΤΑΤΗΣ</title>
+    <category lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</category>
+  </programme>
+  <programme start="20261127000000 +0200" stop="20261127020000 +0200" channel="ant1">
+    <title lang="el">THE FOOTBALL SHOW</title>
+    <category lang="el">ΑΘΛΗΤΙΚΗ ΕΝΗΜΕΡΩΤΙΚΗ</category>
+  </programme>
+  <programme start="20261127020000 +0200" stop="20261127031500 +0200" channel="ant1">
+    <title lang="el">ΠΑΓΙΔΕΥΜΕΝΟΙ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+    <icon src="https://www.antenna.gr/imgHandler/1000/4ed54092-049c-4be8-ba7c-56d32509028e.jpg"/>
+  </programme>
+  <programme start="20261127031500 +0200" stop="20261127040000 +0200" channel="ant1">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119140000 +0200" stop="20261119150000 +0200" channel="makedonia_tv">
-    <title lang="el">ΛΙΤΣΑ.COM</title>
+  <programme start="20261127040000 +0200" stop="20261127050000 +0200" channel="ant1">
+    <title lang="el">ΠΑΡΘΕΝΑ ΖΩΗ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119150000 +0200" stop="20261119160000 +0200" channel="makedonia_tv">
-    <title lang="el">ΛΙΤΣΑ.COM</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119160000 +0200" stop="20261119170000 +0200" channel="makedonia_tv">
-    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119170000 +0200" stop="20261119180000 +0200" channel="makedonia_tv">
-    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119180000 +0200" stop="20261119190000 +0200" channel="makedonia_tv">
-    <title lang="el">ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119190000 +0200" stop="20261119200000 +0200" channel="makedonia_tv">
-    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119200000 +0200" stop="20261119210000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119210000 +0200" stop="20261119220000 +0200" channel="makedonia_tv">
-    <title lang="el">THE MENTALIST</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119220000 +0200" stop="20261119230000 +0200" channel="makedonia_tv">
-    <title lang="el">THE MENTALIST</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119230000 +0200" stop="20261120000000 +0200" channel="makedonia_tv">
-    <title lang="el">THE ROOKIE</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261120000000 +0200" stop="20261120010000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120010000 +0200" stop="20261120014500 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120014500 +0200" stop="20261120023000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120023000 +0200" stop="20261120031500 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120031500 +0200" stop="20261120040000 +0200" channel="makedonia_tv">
-    <title lang="el">GREY S ANATOMY</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120040000 +0200" stop="20261120044500 +0200" channel="makedonia_tv">
-    <title lang="el">ΣΤΗΝ ΕΝΤΑΤΙΚΗ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120044500 +0200" stop="20261120051500 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120051500 +0200" stop="20261120060000 +0200" channel="makedonia_tv">
-    <title lang="el">THE MENTALIST</title>
-    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120060000 +0200" stop="20261120070000 +0200" channel="makedonia_tv">
     <title lang="el">LOVE IT OR LIST IT</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
@@ -826,11 +715,11 @@
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261121000000 +0200" stop="20261121010000 +0200" channel="makedonia_tv">
-    <title lang="el">LOVE IT OR LIST IT</title>
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261121000000 +0200" stop="20261121010000 +0200" channel="makedonia_tv">
-    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <title lang="el">LOVE IT OR LIST IT</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261121010000 +0200" stop="20261121014500 +0200" channel="makedonia_tv">
@@ -1397,162 +1286,113 @@
     <title lang="el">THE MENTALIST</title>
     <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119060000 +0200" stop="20261119064500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
+  <programme start="20261126060000 +0200" stop="20261126070000 +0200" channel="makedonia_tv">
+    <title lang="el">LOVE IT OR LIST IT</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126070000 +0200" stop="20261126080000 +0200" channel="makedonia_tv">
+    <title lang="el">LOVE IT OR LIST IT</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126080000 +0200" stop="20261126083000 +0200" channel="makedonia_tv">
+    <title lang="el">STORAGE WARS</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126083000 +0200" stop="20261126090000 +0200" channel="makedonia_tv">
+    <title lang="el">STORAGE WARS</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126090000 +0200" stop="20261126100000 +0200" channel="makedonia_tv">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  </programme>
+  <programme start="20261126100000 +0200" stop="20261126110000 +0200" channel="makedonia_tv">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  </programme>
+  <programme start="20261126110000 +0200" stop="20261126120000 +0200" channel="makedonia_tv">
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</title>
+    <category lang="el">ΛΟΙΠΕΣ ΨΥΧΑΓΩΓΙΚΕΣ ΕΚΠΟΜΠΕΣ</category>
+  </programme>
+  <programme start="20261126120000 +0200" stop="20261126130000 +0200" channel="makedonia_tv">
+    <title lang="el">THE BIGGEST LOSER</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126130000 +0200" stop="20261126140000 +0200" channel="makedonia_tv">
+    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119064500 +0200" stop="20261119073000 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
+  <programme start="20261126140000 +0200" stop="20261126150000 +0200" channel="makedonia_tv">
+    <title lang="el">ΛΙΤΣΑ.COM</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119073000 +0200" stop="20261119081500 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
+  <programme start="20261126150000 +0200" stop="20261126160000 +0200" channel="makedonia_tv">
+    <title lang="el">ΛΙΤΣΑ.COM</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119081500 +0200" stop="20261119090000 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
+  <programme start="20261126160000 +0200" stop="20261126170000 +0200" channel="makedonia_tv">
+    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119090000 +0200" stop="20261119094500 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
+  <programme start="20261126170000 +0200" stop="20261126180000 +0200" channel="makedonia_tv">
+    <title lang="el">ΠΑΡΟΥΣΙΑΣΤΕ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119094500 +0200" stop="20261119103000 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
+  <programme start="20261126180000 +0200" stop="20261126190000 +0200" channel="makedonia_tv">
+    <title lang="el">ΔΕΛΗΓΙΑΝΝΕΙΟ ΠΑΡΘΕΝΑΓΩΓΕΙΟ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119103000 +0200" stop="20261119111500 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
+  <programme start="20261126190000 +0200" stop="20261126200000 +0200" channel="makedonia_tv">
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119111500 +0200" stop="20261119114500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261126200000 +0200" stop="20261126210000 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119114500 +0200" stop="20261119121500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261126210000 +0200" stop="20261126220000 +0200" channel="makedonia_tv">
+    <title lang="el">THE MENTALIST</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119121500 +0200" stop="20261119130000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261126220000 +0200" stop="20261126230000 +0200" channel="makedonia_tv">
+    <title lang="el">THE MENTALIST</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119130000 +0200" stop="20261119134500 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261126230000 +0200" stop="20261127000000 +0200" channel="makedonia_tv">
+    <title lang="el">THE ROOKIE</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119134500 +0200" stop="20261119143000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127000000 +0200" stop="20261127010000 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119143000 +0200" stop="20261119151500 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127010000 +0200" stop="20261127014500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119151500 +0200" stop="20261119160000 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127014500 +0200" stop="20261127023000 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119160000 +0200" stop="20261119164500 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127023000 +0200" stop="20261127031500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ:ΑΣΤΥΝΟΜΙΚΕΣ ΙΣΤΟΡΙΕΣ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119164500 +0200" stop="20261119173000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127031500 +0200" stop="20261127040000 +0200" channel="makedonia_tv">
+    <title lang="el">GREY S ANATOMY</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119173000 +0200" stop="20261119180000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127040000 +0200" stop="20261127044500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119180000 +0200" stop="20261119183000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127044500 +0200" stop="20261127051500 +0200" channel="makedonia_tv">
+    <title lang="el">ΝΟΜΟΣ ΚΑΙ ΤΑΞΗ: ΕΙΔΙΚΗ ΟΜΑΔΑ</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119183000 +0200" stop="20261119191500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119191500 +0200" stop="20261119201500 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119201500 +0200" stop="20261119210000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119210000 +0200" stop="20261119214500 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119214500 +0200" stop="20261119223000 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119223000 +0200" stop="20261119231500 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261119231500 +0200" stop="20261120001000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120001000 +0200" stop="20261120004000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120004000 +0200" stop="20261120011500 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
-    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120011500 +0200" stop="20261120020000 +0200" channel="ant1_comedy">
-    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
-    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120020000 +0200" stop="20261120024500 +0200" channel="ant1_comedy">
-    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120024500 +0200" stop="20261120033000 +0200" channel="ant1_comedy">
-    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120033000 +0200" stop="20261120041500 +0200" channel="ant1_comedy">
-    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120041500 +0200" stop="20261120050000 +0200" channel="ant1_comedy">
-    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
-    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
-  </programme>
-  <programme start="20261120050000 +0200" stop="20261120060000 +0200" channel="ant1_comedy">
-    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
-    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
-    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  <programme start="20261127051500 +0200" stop="20261127060000 +0200" channel="makedonia_tv">
+    <title lang="el">THE MENTALIST</title>
+    <category lang="el">ΞΕΝΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261120060000 +0200" stop="20261120064500 +0200" channel="ant1_comedy">
     <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
@@ -2496,133 +2336,162 @@
     <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119060000 +0200" stop="20261119064500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261126060000 +0200" stop="20261126064500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119064500 +0200" stop="20261119073000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261126064500 +0200" stop="20261126073000 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119073000 +0200" stop="20261119081500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261126073000 +0200" stop="20261126081500 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119081500 +0200" stop="20261119090000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261126081500 +0200" stop="20261126090000 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119090000 +0200" stop="20261119094500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261126090000 +0200" stop="20261126094500 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119094500 +0200" stop="20261119103000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261126094500 +0200" stop="20261126103000 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119103000 +0200" stop="20261119111500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261126103000 +0200" stop="20261126111500 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119111500 +0200" stop="20261119120000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
-  </programme>
-  <programme start="20261119120000 +0200" stop="20261119124500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261126111500 +0200" stop="20261126114500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119124500 +0200" stop="20261119133000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261126114500 +0200" stop="20261126121500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119133000 +0200" stop="20261119141500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261126121500 +0200" stop="20261126130000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119141500 +0200" stop="20261119150000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261126130000 +0200" stop="20261126134500 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119150000 +0200" stop="20261119154500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261126134500 +0200" stop="20261126143000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119154500 +0200" stop="20261119163000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261126143000 +0200" stop="20261126151500 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119163000 +0200" stop="20261119171500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261126151500 +0200" stop="20261126160000 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119171500 +0200" stop="20261119180000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
-  </programme>
-  <programme start="20261119180000 +0200" stop="20261119184500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261126160000 +0200" stop="20261126164500 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119184500 +0200" stop="20261119193000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261126164500 +0200" stop="20261126173000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119193000 +0200" stop="20261119201500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261126173000 +0200" stop="20261126180000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119201500 +0200" stop="20261119210000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261126180000 +0200" stop="20261126183000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119210000 +0200" stop="20261119214500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261126183000 +0200" stop="20261126191500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119214500 +0200" stop="20261119223000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261126191500 +0200" stop="20261126201500 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119223000 +0200" stop="20261119231500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261126201500 +0200" stop="20261126210000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119231500 +0200" stop="20261120000000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
-  </programme>
-  <programme start="20261120000000 +0200" stop="20261120004500 +0200" channel="ant1_drama">
-    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+  <programme start="20261126210000 +0200" stop="20261126214500 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120004500 +0200" stop="20261120013000 +0200" channel="ant1_drama">
-    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+  <programme start="20261126214500 +0200" stop="20261126223000 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120013000 +0200" stop="20261120021500 +0200" channel="ant1_drama">
-    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+  <programme start="20261126223000 +0200" stop="20261126231500 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120021500 +0200" stop="20261120030000 +0200" channel="ant1_drama">
-    <title lang="el">ΚΑΡΜΑ</title>
+  <programme start="20261126231500 +0200" stop="20261127001000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Χάρης Ρώμας Αννα Χατζησοφιά ΣΚΗΝΟΘΕΣΙΑ:Κώστας Λυχναράς ΒΟΗΘΟΣ ΣΚΗΝΟΘΕΤΗ:Σίσσυ Σμυριλίου</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120030000 +0200" stop="20261120034500 +0200" channel="ant1_drama">
-    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
-    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+  <programme start="20261127001000 +0200" stop="20261127004000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120034500 +0200" stop="20261120043000 +0200" channel="ant1_drama">
-    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+  <programme start="20261127004000 +0200" stop="20261127011500 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ</title>
+    <desc lang="el">ΣΕΝΑΡIΟ : Χάρης Ρώμας Άνvα Χατζησoφιά ΣΚΗΝΟΘΕΣIΑ : Φωτειvή Κoτρώτση Δ/ΝΣΗ ΦΩΤΟΓΡΑΦIΑΣ : Τά</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120043000 +0200" stop="20261120051500 +0200" channel="ant1_drama">
-    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+  <programme start="20261127011500 +0200" stop="20261127020000 +0200" channel="ant1_comedy">
+    <title lang="el">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ</title>
+    <desc lang="el">ΣΚΗΝΟΘΕΣΙΑ:Αλέξανδρος Ρήγας ΣΕΝΑΡΙΟ: Αλέξανδρος Ρήγας - Δημήτρης Αποστόλου ΔΙΕΥΘΥΝΣΗ ΦΩΤΟΓΡΑΦΙΑΣ :</desc>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120051500 +0200" stop="20261120060000 +0200" channel="ant1_drama">
-    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  <programme start="20261127020000 +0200" stop="20261127024500 +0200" channel="ant1_comedy">
+    <title lang="el">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127024500 +0200" stop="20261127033000 +0200" channel="ant1_comedy">
+    <title lang="el">ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ : Λευτέρης Καπώνης ΣΚΗΝΟΘΕΣΙΑ : Αντώνης Τέμπος ΠΑΙΖΟΥΝ : Αντώνης Καφετζόπουλος, Γιώργος</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127033000 +0200" stop="20261127041500 +0200" channel="ant1_comedy">
+    <title lang="el">ΕΛΛΑΣ ΤΟ ΜΕΓΑΛΕΙΟ ΣΟΥ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127041500 +0200" stop="20261127050000 +0200" channel="ant1_comedy">
+    <title lang="el">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</title>
+    <desc lang="el">2ος Κύκλος ΣΚΗΝΟΘΕΣΙΑ : Ανδρέας Μορφονιός ΣΕΝΑΡΙΟ : Ρένα Ρίγγα, Πάνος Αμαραντίδης ΣΚΗΝΟΓΡΑΦΟΣ :</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127050000 +0200" stop="20261127060000 +0200" channel="ant1_comedy">
+    <title lang="el">ΓΙΑ ΜΙΑ ΓΥΝΑΙΚΑ ΚΑΙ ΕΝΑ ΑΥΤΟΚΙΝΗΤΟ</title>
+    <desc lang="el">ΠΡΩΤΑΓΩΝΙΣΤΟΥΝ: Πάνος Μιχαλόπουλος Λίνα Σακκά Γιώργος Χρανιώτης Τασσώ Καββαδία Αθηνόδωρο</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
   <programme start="20261120060000 +0200" stop="20261120064500 +0200" channel="ant1_drama">
     <title lang="el">ΜΠΡΟΥΣΚΟ</title>
@@ -3392,61 +3261,133 @@
   <programme start="20261126051500 +0200" stop="20261126060000 +0200" channel="ant1_drama">
     <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
-  <programme start="20261119060000 +0200" stop="20261119100000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126060000 +0200" stop="20261126064500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119100000 +0200" stop="20261119113000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 REVIEW | Season Review 1992</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126064500 +0200" stop="20261126073000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119113000 +0200" stop="20261119120000 +0200" channel="ant1plus_sports1">
-    <title lang="el">F1 ACADEMY REVIEW | Austin - Weekend Wrapped 2026</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126073000 +0200" stop="20261126081500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119120000 +0200" stop="20261119161000 +0200" channel="ant1plus_sports1">
-    <title lang="el">PREMIUM EVENTS | GT World Challenge Europe - Round 3 Endurance Cup</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126081500 +0200" stop="20261126090000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119161000 +0200" stop="20261119182000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE Βραζιλία</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126090000 +0200" stop="20261126094500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119182000 +0200" stop="20261119193000 +0200" channel="ant1plus_sports1">
-    <title lang="el">PREMIUM EVENTS | KUMHO FIA TCR WORLD TOUR 2026 - ZHEJIANG CHINA - R</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126094500 +0200" stop="20261126103000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119193000 +0200" stop="20261119203000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FOOTBALL STORIES | Βραζιλία</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126103000 +0200" stop="20261126111500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119203000 +0200" stop="20261119213000 +0200" channel="ant1plus_sports1">
-    <title lang="el">PREMIUM EVENTS | Rallye ola Energy du maroc - Highlights</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126111500 +0200" stop="20261126120000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
-  <programme start="20261119213000 +0200" stop="20261119230000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SUPERBIKES 2026 | Spanish - World SBK - Race 1</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126120000 +0200" stop="20261126124500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261119230000 +0200" stop="20261120002000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SUPERBIKES 2026 | Spanish - World SBK - Race 2</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126124500 +0200" stop="20261126133000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120002000 +0200" stop="20261120023000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE Όστιν</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126133000 +0200" stop="20261126141500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120023000 +0200" stop="20261120033000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126141500 +0200" stop="20261126150000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120033000 +0200" stop="20261120055000 +0200" channel="ant1plus_sports1">
-    <title lang="el">FORMULA 1 | FEATURE RACE Σιγκαπούρη</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126150000 +0200" stop="20261126154500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261120055000 +0200" stop="20261120060000 +0200" channel="ant1plus_sports1">
-    <title lang="el">F1 STORIES | Ep17 - Σιγκαπούρη</title>
-    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  <programme start="20261126154500 +0200" stop="20261126163000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126163000 +0200" stop="20261126171500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126171500 +0200" stop="20261126180000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261126180000 +0200" stop="20261126184500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126184500 +0200" stop="20261126193000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126193000 +0200" stop="20261126201500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126201500 +0200" stop="20261126210000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126210000 +0200" stop="20261126214500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126214500 +0200" stop="20261126223000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126223000 +0200" stop="20261126231500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261126231500 +0200" stop="20261127000000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261127000000 +0200" stop="20261127004500 +0200" channel="ant1_drama">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127004500 +0200" stop="20261127013000 +0200" channel="ant1_drama">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127013000 +0200" stop="20261127021500 +0200" channel="ant1_drama">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127021500 +0200" stop="20261127030000 +0200" channel="ant1_drama">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127030000 +0200" stop="20261127034500 +0200" channel="ant1_drama">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127034500 +0200" stop="20261127043000 +0200" channel="ant1_drama">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127043000 +0200" stop="20261127051500 +0200" channel="ant1_drama">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261127051500 +0200" stop="20261127060000 +0200" channel="ant1_drama">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
   <programme start="20261120060000 +0200" stop="20261120070000 +0200" channel="ant1plus_sports1">
     <title lang="el">FORMULA 1 | FEATURE RACE FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026</title>
@@ -3597,7 +3538,7 @@
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261123060000 +0200" stop="20261123100000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <title lang="el">SPORTS CARD 1 |</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261123100000 +0200" stop="20261123130000 +0200" channel="ant1plus_sports1">
@@ -3637,11 +3578,11 @@
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261124055000 +0200" stop="20261124060000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <title lang="el">SPORTS CARD 1 |</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261124060000 +0200" stop="20261124100000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <title lang="el">SPORTS CARD 1 |</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261124100000 +0200" stop="20261124110000 +0200" channel="ant1plus_sports1">
@@ -3689,7 +3630,7 @@
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261125070000 +0200" stop="20261125100000 +0200" channel="ant1plus_sports1">
-    <title lang="el">SPORTS CARD 1 | Sports Card 1</title>
+    <title lang="el">SPORTS CARD 1 |</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261125100000 +0200" stop="20261125103000 +0200" channel="ant1plus_sports1">
@@ -3744,60 +3685,65 @@
     <title lang="el">FORMULA 1 REVIEW | Season Review 2022</title>
     <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119060000 +0200" stop="20261119073000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">PFL Global 2026 - Chicago 2</desc>
+  <programme start="20261126060000 +0200" stop="20261126063000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 REVIEW | Season Review 2022</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119073000 +0200" stop="20261119100000 +0200" channel="ant1plus_sports2">
-    <title lang="el">SPORTS CARD 2</title>
+  <programme start="20261126063000 +0200" stop="20261126100000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 |</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119100000 +0200" stop="20261119103000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL SPORTS</title>
-    <desc lang="el">Red Bull Ultimate Rush Ep03</desc>
+  <programme start="20261126100000 +0200" stop="20261126141000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR CUP SERIES | Xfinity 500</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119103000 +0200" stop="20261119110000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL SPORTS</title>
-    <desc lang="el">Red Bull Ultimate Rush Ep04</desc>
+  <programme start="20261126141000 +0200" stop="20261126162000 +0200" channel="ant1plus_sports1">
+    <title lang="el">FORMULA 1 | FEATURE RACE Αζερμπαϊτζάν</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119110000 +0200" stop="20261119120000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
-    <desc lang="el">Red Bull Cliff Diving 2023 Boston, USA - Highlight</desc>
+  <programme start="20261126162000 +0200" stop="20261126164000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Spa - Francorchamps</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119120000 +0200" stop="20261119130000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
-    <desc lang="el">Red Bull Cliff Diving 2023 Paris, FRA - Highlight</desc>
+  <programme start="20261126164000 +0200" stop="20261126170000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Budapest</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119130000 +0200" stop="20261119140000 +0200" channel="ant1plus_sports2">
-    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
-    <desc lang="el">Red Bull Cliff Diving 2023 Polignano a Mare, ITA -</desc>
+  <programme start="20261126170000 +0200" stop="20261126172000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Monza</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119140000 +0200" stop="20261119143000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PREMIUM EVENTS</title>
-    <desc lang="el">Vendee Arctique - Les Sables - D&apos;olonne - Highligh</desc>
+  <programme start="20261126172000 +0200" stop="20261126174000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Madrid</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119143000 +0200" stop="20261119200000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">Rkena Hosting PFL</desc>
+  <programme start="20261126174000 +0200" stop="20261126180000 +0200" channel="ant1plus_sports1">
+    <title lang="el">CHASING THE DREAM | Azerbaijan</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119200000 +0200" stop="20261119234500 +0200" channel="ant1plus_sports2">
-    <title lang="el">CAGE WARRIORS</title>
-    <desc lang="el">Cage Warriors 212</desc>
+  <programme start="20261126180000 +0200" stop="20261126202000 +0200" channel="ant1plus_sports1">
+    <title lang="el">F1 KIDS | F1 Kids Spanish - Race</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261119234500 +0200" stop="20261120041000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">PFL Africa 2026 - Marocco</desc>
+  <programme start="20261126202000 +0200" stop="20261126222000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERCARS 2026 | Boost Mobile Gold Coast 500</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261120041000 +0200" stop="20261120050000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">PFL Global 2026 - Tampa - Highlights</desc>
+  <programme start="20261126222000 +0200" stop="20261126235000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERBIKES 2026 | Spanish - World SBK - Race 1</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120055000 +0200" channel="ant1plus_sports2">
-    <title lang="el">PFL MMA</title>
-    <desc lang="el">PFL Global 2026 - Chicago 2 - Highlights</desc>
+  <programme start="20261126235000 +0200" stop="20261127011000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SUPERBIKES 2026 | Spanish - World SBK - Race 2</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
-  <programme start="20261120055000 +0200" stop="20261120060000 +0200" channel="ant1plus_sports2">
-    <title lang="el">SPORTS CARD 2</title>
-    <desc lang="el">Sports Card 2</desc>
+  <programme start="20261127011000 +0200" stop="20261127054000 +0200" channel="ant1plus_sports1">
+    <title lang="el">NASCAR CUP SERIES | Yellawood 500</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
+  </programme>
+  <programme start="20261127054000 +0200" stop="20261127060000 +0200" channel="ant1plus_sports1">
+    <title lang="el">SPORTS CARD 1 |</title>
+    <category lang="el">ΑΘΛΗΤΙΚΑ</category>
   </programme>
   <programme start="20261120060000 +0200" stop="20261120100000 +0200" channel="ant1plus_sports2">
     <title lang="el">SPORTS CARD 2</title>
@@ -3927,13 +3873,46 @@
     <title lang="el">PFL MMA</title>
     <desc lang="el">PFL Global 2026 - Dubai</desc>
   </programme>
+  <programme start="20261123060000 +0200" stop="20261123100000 +0200" channel="ant1plus_sports2">
+    <title lang="el">SPORTS CARD 2</title>
+  </programme>
+  <programme start="20261123100000 +0200" stop="20261123103000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep11</desc>
+  </programme>
+  <programme start="20261123103000 +0200" stop="20261123110000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep12</desc>
+  </programme>
+  <programme start="20261123110000 +0200" stop="20261123113000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RAINBOW DIVE</title>
+  </programme>
+  <programme start="20261123113000 +0200" stop="20261123120000 +0200" channel="ant1plus_sports2">
+    <title lang="el">ONE WITH THE WATER</title>
+  </programme>
+  <programme start="20261123120000 +0200" stop="20261123163000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 209</desc>
+  </programme>
+  <programme start="20261123163000 +0200" stop="20261123205000 +0200" channel="ant1plus_sports2">
+    <title lang="el">BRAVE CF</title>
+    <desc lang="el">Brave CF -107 - BURGAS</desc>
+    <category lang="el">ΑΘΛΗΤΙΚΕΣ ΜΕΤΑΔΟΣΕΙΣ</category>
+  </programme>
+  <programme start="20261123205000 +0200" stop="20261124004000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 211</desc>
+  </programme>
+  <programme start="20261124004000 +0200" stop="20261124060000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">Rkena Hosting PFL</desc>
+  </programme>
   <programme start="20261125060000 +0200" stop="20261125070000 +0200" channel="ant1plus_sports2">
     <title lang="el">CAGE WARRIORS</title>
     <desc lang="el">Cage Warriors 205</desc>
   </programme>
   <programme start="20261125070000 +0200" stop="20261125100000 +0200" channel="ant1plus_sports2">
     <title lang="el">SPORTS CARD 2</title>
-    <desc lang="el">Sports Card 2</desc>
   </programme>
   <programme start="20261125100000 +0200" stop="20261125103000 +0200" channel="ant1plus_sports2">
     <title lang="el">RED BULL SPORTS</title>
@@ -3968,11 +3947,52 @@
     <title lang="el">PFL MMA</title>
     <desc lang="el">PFL Global 2026 - Tampa</desc>
   </programme>
-  <programme start="20261119060000 +0200" stop="20261119180000 +0200" channel="ant1plus_sports3">
-    <title lang="el">RED BULL SPORTS</title>
+  <programme start="20261126060000 +0200" stop="20261126072000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Global 2026 - Tampa</desc>
   </programme>
-  <programme start="20261119180000 +0200" stop="20261120060000 +0200" channel="ant1plus_sports3">
+  <programme start="20261126072000 +0200" stop="20261126100000 +0200" channel="ant1plus_sports2">
+    <title lang="el">SPORTS CARD 2</title>
+  </programme>
+  <programme start="20261126100000 +0200" stop="20261126103000 +0200" channel="ant1plus_sports2">
     <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep17</desc>
+  </programme>
+  <programme start="20261126103000 +0200" stop="20261126110000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL SPORTS</title>
+    <desc lang="el">Red Bull Ultimate Rush Ep18</desc>
+  </programme>
+  <programme start="20261126110000 +0200" stop="20261126120000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving 2023 Boston, USA - Highlight</desc>
+  </programme>
+  <programme start="20261126120000 +0200" stop="20261126130000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving 2023 Paris, FRA - Highlight</desc>
+  </programme>
+  <programme start="20261126130000 +0200" stop="20261126140000 +0200" channel="ant1plus_sports2">
+    <title lang="el">RED BULL CLIFF DIVING WORLD SERIES</title>
+    <desc lang="el">Red Bull Cliff Diving 2023 Polignano a Mare, ITA -</desc>
+  </programme>
+  <programme start="20261126140000 +0200" stop="20261126181000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Mena 11 - Last Man Standing</desc>
+  </programme>
+  <programme start="20261126181000 +0200" stop="20261126215000 +0200" channel="ant1plus_sports2">
+    <title lang="el">CAGE WARRIORS</title>
+    <desc lang="el">Cage Warriors 213</desc>
+  </programme>
+  <programme start="20261126215000 +0200" stop="20261127045000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Global 2026 - Dubai</desc>
+  </programme>
+  <programme start="20261127045000 +0200" stop="20261127054000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Global 2026 - Chicago 2 - Highlights</desc>
+  </programme>
+  <programme start="20261127054000 +0200" stop="20261127060000 +0200" channel="ant1plus_sports2">
+    <title lang="el">PFL MMA</title>
+    <desc lang="el">PFL Africa 2026 - Marocco - Highlights</desc>
   </programme>
   <programme start="20261120060000 +0200" stop="20261120180000 +0200" channel="ant1plus_sports3">
     <title lang="el">RED BULL SPORTS</title>
@@ -4019,135 +4039,11 @@
   <programme start="20261125180000 +0200" stop="20261126060000 +0200" channel="ant1plus_sports3">
     <title lang="el">RED BULL SPORTS</title>
   </programme>
-  <programme start="20261119000000 +0200" stop="20261119010000 +0200" channel="ant1plus_fight">
-    <title lang="el">IMPACT in 60 - Tomohiro Ishii</title>
-    <desc lang="el">&quot;Revisit the memorable hard-hitting encounters of NJPW&apos;s &quot;&quot;Stone Pitbull&quot;&quot; Tomohiro Ishii. &quot;</desc>
-    <category lang="el">FIGHT</category>
+  <programme start="20261126060000 +0200" stop="20261126180000 +0200" channel="ant1plus_sports3">
+    <title lang="el">RED BULL SPORTS</title>
   </programme>
-  <programme start="20261119010000 +0200" stop="20261119020000 +0200" channel="ant1plus_fight">
-    <title lang="el">IMPACT in 60 - Brian Myers</title>
-    <desc lang="el">From infiltrating TNA during the GFW invasion to his run as “The Most Professional Wrestler,” a look</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119020000 +0200" stop="20261119040000 +0200" channel="ant1plus_fight">
-    <title lang="el">TNA iMPACT! S26</title>
-    <desc lang="el">TNA Wrestling&apos;s flagship weekly show, featuring The Hardys, Frankie Kazarian, Matt Cardona, Leon Sla</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119040000 +0200" stop="20261119043000 +0200" channel="ant1plus_fight">
-    <title lang="el">International Wrestling Syndicate</title>
-    <desc lang="el">The premier professional wrestling promotion out of Montreal showcasing top Canadian standouts and i</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119043000 +0200" stop="20261119050000 +0200" channel="ant1plus_fight">
-    <title lang="el">Classic All-Star Wrestling</title>
-    <desc lang="el">The greatest wrestling stars from the 1960s through the 1990s, with classic highlights including Hul</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119050000 +0200" stop="20261119060000 +0200" channel="ant1plus_fight">
-    <title lang="el">ROH Classics</title>
-    <desc lang="el">Classic episodes of Ring of Honor Wrestling featuring Bryan Danielson, Tyler Black, The Young Bucks,</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119060000 +0200" stop="20261119070000 +0200" channel="ant1plus_fight">
-    <title lang="el">Heroes of Lucha Libre</title>
-    <desc lang="el">Infernus brings Bestia and Damian666 to go up against the acrobatic Ocelot and Egyptian King Rey Hor</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119070000 +0200" stop="20261119080000 +0200" channel="ant1plus_fight">
-    <title lang="el">Heroes of Lucha Libre</title>
-    <desc lang="el">It&apos;s HOLL of Fame night and three coveted awards are up for are up for the taking: The Destroyer Mom</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119080000 +0200" stop="20261119090000 +0200" channel="ant1plus_fight">
-    <title lang="el">Ultimate Strongman 2018 - Masters World Championship</title>
-    <desc lang="el">The United Kingdom&apos;s strongest men come together to complete various feats of strength to find out w</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119090000 +0200" stop="20261119100000 +0200" channel="ant1plus_fight">
-    <title lang="el">UK&apos;s Strongest Man 2022 - Part 5/5</title>
-    <desc lang="el">Strongmen from across the United Kingdom and Ireland pull trucks, flip giant tires and lift stones t</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119100000 +0200" stop="20261119110000 +0200" channel="ant1plus_fight">
-    <title lang="el">World Armwrestling League</title>
-    <desc lang="el">The World Armwrestling League is the largest and fastest growing professional armwrestling league in</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119110000 +0200" stop="20261119113000 +0200" channel="ant1plus_fight">
-    <title lang="el">Retrospective - Anthony Pettis</title>
-    <desc lang="el">Profiling former UFC and WEC lightweight champion Anthony Pettis. Original series featuring combat s</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119113000 +0200" stop="20261119120000 +0200" channel="ant1plus_fight">
-    <title lang="el">After The Fight - GLORY 60 Lyon</title>
-    <desc lang="el">A behind-the-scenes look at the aftermath from GLORY 60 Lyon on Oct. 20 in Lyon, France, following s</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119120000 +0200" stop="20261119123000 +0200" channel="ant1plus_fight">
-    <title lang="el">Diary: Bhupinder Gujjar</title>
-    <desc lang="el">Indian-born Bhupinder Gujjar shares the struggles of uprooting his life to a new country and reveali</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119123000 +0200" stop="20261119130000 +0200" channel="ant1plus_fight">
-    <title lang="el">Immersed - Invicta FC 44</title>
-    <desc lang="el">This episode follows Invicta FC Strawweight Champion Emily Ducote on the night of her fight that lea</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119130000 +0200" stop="20261119140000 +0200" channel="ant1plus_fight">
-    <title lang="el">Pro Grapplers Federation</title>
-    <desc lang="el">Showcasing the best grapplers in an in-studio environment.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119140000 +0200" stop="20261119150000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">&quot;Special delivery coming your way courtesy of &quot;&quot;The Postman&quot;&quot; Dilano Taylor! This Welterweight made</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119150000 +0200" stop="20261119160000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">Sometimes, it just isn&apos;t your night inside the SmartCage. Check out these spectacular performances f</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119160000 +0200" stop="20261119170000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">So, you want to be a PFL fighter? First, you&apos;ll need to impress the celebrity panel with a spectacul</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119170000 +0200" stop="20261119173000 +0200" channel="ant1plus_fight">
-    <title lang="el">Diary: Bhupinder Gujjar</title>
-    <desc lang="el">Indian-born Bhupinder Gujjar shares the struggles of uprooting his life to a new country and reveali</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119173000 +0200" stop="20261119180000 +0200" channel="ant1plus_fight">
-    <title lang="el">Retrospective - Anthony Pettis</title>
-    <desc lang="el">Profiling former UFC and WEC lightweight champion Anthony Pettis. Original series featuring combat s</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119180000 +0200" stop="20261119190000 +0200" channel="ant1plus_fight">
-    <title lang="el">Fight Network Recharged - Kevin Ross Part 2</title>
-    <desc lang="el">Featuring the best of &apos;The Soul Assassin&apos; from his time with Lion Fight.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119190000 +0200" stop="20261119210000 +0200" channel="ant1plus_fight">
-    <title lang="el">Bellator 186</title>
-    <desc lang="el">November 3, 2017. Featuring Ryan Bader vs. Linton Vassell for Bellator light heavyweight title, Ilim</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119210000 +0200" stop="20261119220000 +0200" channel="ant1plus_fight">
-    <title lang="el">Fight Network Recharged - Lion Fight Knockouts Vol. 9</title>
-    <desc lang="el">Fight Network Recharged presents the best knockouts from Lion Fight.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119220000 +0200" stop="20261119230000 +0200" channel="ant1plus_fight">
-    <title lang="el">PFL Vault</title>
-    <desc lang="el">Two million-dollar Championships on the line and two Fight of the Year Performances delivered.</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119230000 +0200" stop="20261120020000 +0200" channel="ant1plus_fight">
-    <title lang="el">Bellator 273: Bader vs. Moldavsky</title>
-    <desc lang="el">January 29, 2022. Featuring Ryan Bader vs. Valentin Moldavsky for Bellator Heavyweight Championship,</desc>
-    <category lang="el">FIGHT</category>
+  <programme start="20261126180000 +0200" stop="20261127060000 +0200" channel="ant1plus_sports3">
+    <title lang="el">RED BULL SPORTS</title>
   </programme>
   <programme start="20261120020000 +0200" stop="20261120030000 +0200" channel="ant1plus_fight">
     <title lang="el">Pancrase in 60 - Guy Mezger</title>
@@ -4849,464 +4745,134 @@
     <desc lang="el">A look at some of the kickboxers who brought their striking expertise to the Japanese Pancrase organ</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119001000 +0200" stop="20261119001200 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126000000 +0200" stop="20261126010000 +0200" channel="ant1plus_fight">
+    <title lang="el">IMPACT in 60 - Josh Alexander&apos;s X-Division Title Reign</title>
+    <desc lang="el">Journey back to the incredible matches of Josh Alexander&apos;s X-Division Championship reign.</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119001200 +0200" stop="20261119002900 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;PPL FINALS D3 - MIAMI v FLOWRIDA</title>
-    <desc lang="el">&quot;PPL FINALS D3 - MIAMI v FLOWRIDA</desc>
+  <programme start="20261126010000 +0200" stop="20261126020000 +0200" channel="ant1plus_fight">
+    <title lang="el">IMPACT in 60 - W. Morrissey</title>
+    <desc lang="el">A closer look at W. Morrissey’s ascent up the IMPACT Wrestling ladder, including matches against Wil</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119002900 +0200" stop="20261119003100 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126020000 +0200" stop="20261126040000 +0200" channel="ant1plus_fight">
+    <title lang="el">TNA iMPACT! S26</title>
+    <desc lang="el">TNA Wrestling&apos;s flagship weekly show, featuring The Hardys, Frankie Kazarian, Matt Cardona, Leon Sla</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119003100 +0200" stop="20261119004500 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;PPL FINALS D3 - MIAMI v FLOWRIDA</title>
-    <desc lang="el">&quot;PPL FINALS D3 - MIAMI v FLOWRIDA</desc>
+  <programme start="20261126040000 +0200" stop="20261126043000 +0200" channel="ant1plus_fight">
+    <title lang="el">International Wrestling Syndicate</title>
+    <desc lang="el">The premier professional wrestling promotion out of Montreal showcasing top Canadian standouts and i</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119004500 +0200" stop="20261119004700 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126043000 +0200" stop="20261126050000 +0200" channel="ant1plus_fight">
+    <title lang="el">Classic All-Star Wrestling</title>
+    <desc lang="el">The greatest wrestling stars from the 1960s through the 1990s, with classic highlights including Hul</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119004700 +0200" stop="20261119005700 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;PPL FINALS D3 - MIAMI v FLOWRIDA</title>
-    <desc lang="el">&quot;PPL FINALS D3 - MIAMI v FLOWRIDA</desc>
+  <programme start="20261126050000 +0200" stop="20261126060000 +0200" channel="ant1plus_fight">
+    <title lang="el">ROH Classics</title>
+    <desc lang="el">Classic episodes of Ring of Honor Wrestling featuring Bryan Danielson, Tyler Black, The Young Bucks,</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119005700 +0200" stop="20261119005900 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126060000 +0200" stop="20261126070000 +0200" channel="ant1plus_fight">
+    <title lang="el">Heroes of Lucha Libre</title>
+    <desc lang="el">Sinestrum sends one of its most powerful Luchadors, Pierrothito, but the Tecnicos send the King of t</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119005900 +0200" stop="20261119025900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
+  <programme start="20261126070000 +0200" stop="20261126080000 +0200" channel="ant1plus_fight">
+    <title lang="el">Heroes of Lucha Libre</title>
+    <desc lang="el">Lobito and Demus are fighters in the war between Khabalam and Infernus. Without a ring at stake for</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119025900 +0200" stop="20261119045900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
+  <programme start="20261126080000 +0200" stop="20261126090000 +0200" channel="ant1plus_fight">
+    <title lang="el">Ultimate Strongman 2014 - Team World Championship</title>
+    <desc lang="el">The United Kingdom&apos;s strongest men come together to complete various feats of strength to find out w</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119045900 +0200" stop="20261119065900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
+  <programme start="20261126090000 +0200" stop="20261126100000 +0200" channel="ant1plus_fight">
+    <title lang="el">UK&apos;s Strongest Man 2013 - Part 1/5</title>
+    <desc lang="el">Strongmen from across the United Kingdom and Ireland pull trucks, flip giant tires and lift stones t</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119065900 +0200" stop="20261119075900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
+  <programme start="20261126100000 +0200" stop="20261126110000 +0200" channel="ant1plus_fight">
+    <title lang="el">World Armwrestling League</title>
+    <desc lang="el">The World Armwrestling League is the largest and fastest growing professional armwrestling league in</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119075900 +0200" stop="20261119080100 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126110000 +0200" stop="20261126113000 +0200" channel="ant1plus_fight">
+    <title lang="el">Retrospective - Vampiro</title>
+    <desc lang="el">Profiling former WCW superstar and professional wrestling great Ian &apos;Vampiro&apos; Hodgkinson. Original s</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119080100 +0200" stop="20261119083800 +0200" channel="ant1plus_padel">
-    <title lang="el">Dani Hoyo - In Malaysia to teach new coaches</title>
-    <desc lang="el">Dani Hoyo - In Malaysia to teach new coaches</desc>
+  <programme start="20261126113000 +0200" stop="20261126120000 +0200" channel="ant1plus_fight">
+    <title lang="el">After The Fight - UFC 231</title>
+    <desc lang="el">An inside look at the behind-the-scenes aftermath from UFC 231: Holloway vs. Ortega in Toronto, Cana</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119083800 +0200" stop="20261119084000 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126120000 +0200" stop="20261126123000 +0200" channel="ant1plus_fight">
+    <title lang="el">Diary: Gisele Shaw</title>
+    <desc lang="el">After decades of carrying the weight of a major secret, Gisele Shaw finally comes to terms with obst</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119084000 +0200" stop="20261119085800 +0200" channel="ant1plus_padel">
-    <title lang="el">Dani Hoyo - This is how I built my own Padel Academy</title>
-    <desc lang="el">Dani Hoyo - This is how I built my own Padel Academy</desc>
+  <programme start="20261126123000 +0200" stop="20261126130000 +0200" channel="ant1plus_fight">
+    <title lang="el">Immersed - Bound for Glory 2022</title>
+    <desc lang="el">Emotions run high as Jordynne Grace faces Masha Slamovich, offering a backstage glimpse into the int</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119085800 +0200" stop="20261119090000 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126130000 +0200" stop="20261126140000 +0200" channel="ant1plus_fight">
+    <title lang="el">Pro Grapplers Federation</title>
+    <desc lang="el">Showcasing the best grapplers in an in-studio environment.</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119090000 +0200" stop="20261119091400 +0200" channel="ant1plus_padel">
-    <title lang="el">Dani Hoyo - Padel World Summit in Barcelona</title>
-    <desc lang="el">Dani Hoyo - Padel World Summit in Barcelona</desc>
+  <programme start="20261126140000 +0200" stop="20261126150000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">Nothing beats an instant classic! Clay Collard and Jeremy Stephens enter the SmartCage and deliver o</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119091400 +0200" stop="20261119091600 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126150000 +0200" stop="20261126160000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">Chris Wade and Arman Ospanov go kick-for-kick in an amazing featherweight duel. While respected frie</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119091600 +0200" stop="20261119100700 +0200" channel="ant1plus_padel">
-    <title lang="el">Dani Hoyo - I Went to South Korea to teach</title>
-    <desc lang="el">Dani Hoyo - I Went to South Korea to teach</desc>
+  <programme start="20261126160000 +0200" stop="20261126170000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">Rory MacDonald vs Gleison Tibau delivers the most controversial decision in MMA History. How did you</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119100700 +0200" stop="20261119100900 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126170000 +0200" stop="20261126173000 +0200" channel="ant1plus_fight">
+    <title lang="el">Diary: Gisele Shaw</title>
+    <desc lang="el">After decades of carrying the weight of a major secret, Gisele Shaw finally comes to terms with obst</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119100900 +0200" stop="20261119110400 +0200" channel="ant1plus_padel">
-    <title lang="el">Dani Hoyo - Padel in Japan</title>
-    <desc lang="el">Dani Hoyo - Padel in Japan</desc>
+  <programme start="20261126173000 +0200" stop="20261126180000 +0200" channel="ant1plus_fight">
+    <title lang="el">Retrospective - Vampiro</title>
+    <desc lang="el">Profiling former WCW superstar and professional wrestling great Ian &apos;Vampiro&apos; Hodgkinson. Original s</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119110400 +0200" stop="20261119110600 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126180000 +0200" stop="20261126190000 +0200" channel="ant1plus_fight">
+    <title lang="el">Fight Network Recharged - Scott Holtzman</title>
+    <desc lang="el">&quot;Before his 2015 UFC debut, Scott &quot;&quot;Hot Sauce&quot;&quot; Holtzman cut his teeth in XFC. This episode feature</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119110600 +0200" stop="20261119113400 +0200" channel="ant1plus_padel">
-    <title lang="el">Dani Hoyo - Padel needs strategy</title>
-    <desc lang="el">Dani Hoyo - Padel needs strategy</desc>
+  <programme start="20261126190000 +0200" stop="20261126210000 +0200" channel="ant1plus_fight">
+    <title lang="el">Bellator 184</title>
+    <desc lang="el">October 6, 2017. Featuring Eduardo Dantas vs. Darrion Caldwell for Bellator bantamweight title, Emma</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119113400 +0200" stop="20261119113600 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+  <programme start="20261126210000 +0200" stop="20261126220000 +0200" channel="ant1plus_fight">
+    <title lang="el">Fight Network Recharged - Lion Fight Knockouts Vol. 11</title>
+    <desc lang="el">Fight Network Recharged presents the best knockouts from Lion Fight.</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119113600 +0200" stop="20261119113900 +0200" channel="ant1plus_padel">
-    <title lang="el">Improve Precision - Rodrigo Ovide</title>
-    <desc lang="el">Improve Precision - Rodrigo Ovide</desc>
+  <programme start="20261126220000 +0200" stop="20261126230000 +0200" channel="ant1plus_fight">
+    <title lang="el">PFL Vault</title>
+    <desc lang="el">Tom Lawlor looks to walk away from his MMA career on top, but a dominant performance would earn him</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261119113900 +0200" stop="20261119114000 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119114000 +0200" stop="20261119114400 +0200" channel="ant1plus_padel">
-    <title lang="el">Choose the lob - Rodrigo Ovide</title>
-    <desc lang="el">Choose the lob - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119114400 +0200" stop="20261119114600 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119114600 +0200" stop="20261119115900 +0200" channel="ant1plus_padel">
-    <title lang="el">Inside Premier Padel with Rodrigo Ovide</title>
-    <desc lang="el">Inside Premier Padel with Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119115900 +0200" stop="20261119120100 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119120100 +0200" stop="20261119120500 +0200" channel="ant1plus_padel">
-    <title lang="el">Tactic - Rodrigo Ovide</title>
-    <desc lang="el">Tactic - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119120500 +0200" stop="20261119120700 +0200" channel="ant1plus_padel">
-    <title lang="el">Open angles in defense - Rodrigo Ovide</title>
-    <desc lang="el">Open angles in defense - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119120700 +0200" stop="20261119121200 +0200" channel="ant1plus_padel">
-    <title lang="el">You&apos;re too much in this area - Rodrigo Ovide</title>
-    <desc lang="el">You&apos;re too much in this area - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119121200 +0200" stop="20261119121600 +0200" channel="ant1plus_padel">
-    <title lang="el">Best Dejadas - Rodrigo Ovide</title>
-    <desc lang="el">Best Dejadas - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119121600 +0200" stop="20261119121700 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119121700 +0200" stop="20261119121900 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119121900 +0200" stop="20261119122300 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119122300 +0200" stop="20261119122500 +0200" channel="ant1plus_padel">
-    <title lang="el">Easy Padel - Rodrigo Ovide</title>
-    <desc lang="el">Easy Padel - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119122500 +0200" stop="20261119122800 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;Juan AND Paco</title>
-    <desc lang="el">&quot;Juan &amp; Paco</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119122800 +0200" stop="20261119123400 +0200" channel="ant1plus_padel">
-    <title lang="el">Tactic - Rodrigo Ovide</title>
-    <desc lang="el">Tactic - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119123400 +0200" stop="20261119123600 +0200" channel="ant1plus_padel">
-    <title lang="el">AVOID THIS WAY - Rodrigo Ovide</title>
-    <desc lang="el">AVOID THIS WAY - Rodrigo Ovide</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119123600 +0200" stop="20261119123700 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119123700 +0200" stop="20261119123900 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119123900 +0200" stop="20261119124100 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119124100 +0200" stop="20261119124900 +0200" channel="ant1plus_padel">
-    <title lang="el">Day 1 Hexagon Cup - Highlights</title>
-    <desc lang="el">Day 1 Hexagon Cup - Highlights</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119124900 +0200" stop="20261119125700 +0200" channel="ant1plus_padel">
-    <title lang="el">Day 2 Hexagon Cup - Highlights</title>
-    <desc lang="el">Day 2 Hexagon Cup - Highlights</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119125700 +0200" stop="20261119125900 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119125900 +0200" stop="20261119131300 +0200" channel="ant1plus_padel">
-    <title lang="el">Day 3 Hexagon Cup - Highlights</title>
-    <desc lang="el">Day 3 Hexagon Cup - Highlights</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119131300 +0200" stop="20261119131500 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119131500 +0200" stop="20261119133500 +0200" channel="ant1plus_padel">
-    <title lang="el">Day 4 Hexagon Cup - Highlights</title>
-    <desc lang="el">Day 4 Hexagon Cup - Highlights</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119133500 +0200" stop="20261119133700 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119133700 +0200" stop="20261119135100 +0200" channel="ant1plus_padel">
-    <title lang="el">Day 5 Hexagon Cup - Highlights</title>
-    <desc lang="el">Day 5 Hexagon Cup - Highlights</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119135100 +0200" stop="20261119135300 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119135300 +0200" stop="20261119140000 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119140000 +0200" stop="20261119140300 +0200" channel="ant1plus_padel">
-    <title lang="el">After Chiquita Shot - Mauri Andrini</title>
-    <desc lang="el">After Chiquita Shot - Mauri Andrini</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119140300 +0200" stop="20261119140500 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119140500 +0200" stop="20261119140900 +0200" channel="ant1plus_padel">
-    <title lang="el">Bandeja : Preparation and Execution - Agustin Gutierrez</title>
-    <desc lang="el">Bandeja : Preparation and Execution - Agustin Gutierrez</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119140900 +0200" stop="20261119141000 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119141000 +0200" stop="20261119141800 +0200" channel="ant1plus_padel">
-    <title lang="el">Dropshot - Mauri Andrini</title>
-    <desc lang="el">Dropshot - Mauri Andrini</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119141800 +0200" stop="20261119142000 +0200" channel="ant1plus_padel">
-    <title lang="el">Chiquita - Agustin Gutierrez</title>
-    <desc lang="el">Chiquita - Agustin Gutierrez</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119142000 +0200" stop="20261119142200 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119142200 +0200" stop="20261119142400 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119142400 +0200" stop="20261119142600 +0200" channel="ant1plus_padel">
-    <title lang="el">Top Talk - Fitness and Equipment</title>
-    <desc lang="el">Top Talk - Fitness and Equipment</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119142600 +0200" stop="20261119143500 +0200" channel="ant1plus_padel">
-    <title lang="el">Fitness class</title>
-    <desc lang="el">Fitness class</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119143500 +0200" stop="20261119144000 +0200" channel="ant1plus_padel">
-    <title lang="el">Top 3 Puntazos Alicante Open (M)</title>
-    <desc lang="el">Top 3 Puntazos Alicante Open (M)</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119144000 +0200" stop="20261119144400 +0200" channel="ant1plus_padel">
-    <title lang="el">Top 3 Puntazos Alicante Open (W)</title>
-    <desc lang="el">Top 3 Puntazos Alicante Open (W)</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119144400 +0200" stop="20261119144500 +0200" channel="ant1plus_padel">
-    <title lang="el">PADEL TIME</title>
-    <desc lang="el">Filler content</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119144500 +0200" stop="20261119144700 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119144700 +0200" stop="20261119145600 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
-    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119145600 +0200" stop="20261119145800 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119145800 +0200" stop="20261119151300 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
-    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119151300 +0200" stop="20261119151500 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119151500 +0200" stop="20261119153100 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
-    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119153100 +0200" stop="20261119153300 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119153300 +0200" stop="20261119154500 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
-    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119154500 +0200" stop="20261119154700 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119154700 +0200" stop="20261119160000 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
-    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119160000 +0200" stop="20261119160200 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119160200 +0200" stop="20261119161400 +0200" channel="ant1plus_padel">
-    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
-    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119161400 +0200" stop="20261119161600 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119161600 +0200" stop="20261119171400 +0200" channel="ant1plus_padel">
-    <title lang="el">Agustin Tapia : Hacia La Cima</title>
-    <desc lang="el">Agustin Tapia : Hacia La Cima</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119171400 +0200" stop="20261119171600 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119171600 +0200" stop="20261119173100 +0200" channel="ant1plus_padel">
-    <title lang="el">Martin Di Nenno - World Cup AND Dubai Premier Padel</title>
-    <desc lang="el">Martin Di Nenno - World Cup &amp; Dubai Premier Padel</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119173100 +0200" stop="20261119173300 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119173300 +0200" stop="20261119174900 +0200" channel="ant1plus_padel">
-    <title lang="el">Martin Di Nenno - Champions in NY PPL</title>
-    <desc lang="el">Martin Di Nenno - Champions in NY PPL</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119174900 +0200" stop="20261119175100 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119175100 +0200" stop="20261119175700 +0200" channel="ant1plus_padel">
-    <title lang="el">Alix Collombon - Beyond the glass 1</title>
-    <desc lang="el">Alix Collombon - Beyond the glass 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119175700 +0200" stop="20261119175900 +0200" channel="ant1plus_padel">
-    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
-    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119175900 +0200" stop="20261119195900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119195900 +0200" stop="20261119215900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119215900 +0200" stop="20261119235900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
-    <category lang="el">FIGHT</category>
-  </programme>
-  <programme start="20261119235900 +0200" stop="20261120015900 +0200" channel="ant1plus_padel">
-    <title lang="el">PRO PADEL LEAGUE - LAS VEGAS</title>
-    <desc lang="el">PRO PADEL LEAGUE - LAS VEGAS</desc>
+  <programme start="20261126230000 +0200" stop="20261127013000 +0200" channel="ant1plus_fight">
+    <title lang="el">Bellator 272: Pettis vs. Horiguchi</title>
+    <desc lang="el">December 3, 2021. Featuring Sergio Pettis vs. Kyoji Horiguchi for Bellator Bantamweight Championship</desc>
     <category lang="el">FIGHT</category>
   </programme>
   <programme start="20261120015900 +0200" stop="20261120035900 +0200" channel="ant1plus_padel">
@@ -10354,53 +9920,1045 @@
     <desc lang="el">Dani Hoyo - Stay focused</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120120000 +0200" stop="20261120140000 +0200" channel="sportfm_tv1">
-    <title lang="el">Αστέρας Τρίπολης – Κηφισιά</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261126002600 +0200" stop="20261126002800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120140000 +0200" stop="20261120160000 +0200" channel="sportfm_tv1">
-    <title lang="el">Καρδίτσα Ιαπωνική – ΠΑΟΚ</title>
-    <desc lang="el">GBL MD7</desc>
+  <programme start="20261126002800 +0200" stop="20261126004500 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120160000 +0200" stop="20261120180000 +0200" channel="sportfm_tv1">
-    <title lang="el">Πανσερραϊκός – Νίκη Βόλου</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261126004500 +0200" stop="20261126004700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120180000 +0200" stop="20261120200000 +0200" channel="sportfm_tv1">
-    <title lang="el">Προμηθέας Πάτρας Βίκος Cola – Ηρακλής</title>
-    <desc lang="el">GBL MD7</desc>
+  <programme start="20261126004700 +0200" stop="20261126005900 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120200000 +0200" stop="20261120220000 +0200" channel="sportfm_tv1">
-    <title lang="el">Βόλος – Ατρόμητος</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261126005900 +0200" stop="20261126010100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120220000 +0200" stop="20261120231500 +0200" channel="sportfm_tv1">
-    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
-    <desc lang="el">Στιγμιότυπα</desc>
+  <programme start="20261126010100 +0200" stop="20261126011400 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261120231500 +0200" stop="20261121010000 +0200" channel="sportfm_tv1">
-    <title lang="el">THE BALL BOYS (LIVE)</title>
-    <desc lang="el">Παρουσίαση: Έλενα Παπαδοπούλου – Κώστας Ψάρρας</desc>
+  <programme start="20261126011400 +0200" stop="20261126011600 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261121010000 +0200" stop="20261121030000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός AKTOR – Κολοσσός H Hotels Collection</title>
-    <desc lang="el">GBL MD7</desc>
+  <programme start="20261126011600 +0200" stop="20261126012600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261121030000 +0200" stop="20261121050000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261126012600 +0200" stop="20261126012800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261121050000 +0200" stop="20261121070000 +0200" channel="sportfm_tv1">
-    <title lang="el">Άρης – Ολυμπιακός</title>
-    <desc lang="el">GBL MD7</desc>
+  <programme start="20261126012800 +0200" stop="20261126013900 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261121070000 +0200" stop="20261121090000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρκό – Ολυμπιακός</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261126013900 +0200" stop="20261126014100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261121090000 +0200" stop="20261121110000 +0200" channel="sportfm_tv1">
-    <title lang="el">Νέστος Χρυσούπολης – Καλαμάτα</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  <programme start="20261126014100 +0200" stop="20261126015600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126015600 +0200" stop="20261126015800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126015800 +0200" stop="20261126021000 +0200" channel="ant1plus_padel">
+    <title lang="el">Defending - Mauri Andrini</title>
+    <desc lang="el">Defending - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126021000 +0200" stop="20261126021200 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126021200 +0200" stop="20261126021600 +0200" channel="ant1plus_padel">
+    <title lang="el">After Chiquita Shot - Mauri Andrini</title>
+    <desc lang="el">After Chiquita Shot - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126021600 +0200" stop="20261126022000 +0200" channel="ant1plus_padel">
+    <title lang="el">Preparation for back wall - Mauri Andrini</title>
+    <desc lang="el">Preparation for back wall - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126022000 +0200" stop="20261126022300 +0200" channel="ant1plus_padel">
+    <title lang="el">Paralell smash - Mauri Andrini</title>
+    <desc lang="el">Paralell smash - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126022300 +0200" stop="20261126022700 +0200" channel="ant1plus_padel">
+    <title lang="el">The Fence - Mauri Andrini</title>
+    <desc lang="el">The Fence - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126022700 +0200" stop="20261126022900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126022900 +0200" stop="20261126023900 +0200" channel="ant1plus_padel">
+    <title lang="el">Smash - Mauri Andrini</title>
+    <desc lang="el">Smash - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126023900 +0200" stop="20261126024200 +0200" channel="ant1plus_padel">
+    <title lang="el">Fake smash - Mauri Andrini</title>
+    <desc lang="el">Fake smash - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126024200 +0200" stop="20261126024400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126024400 +0200" stop="20261126025800 +0200" channel="ant1plus_padel">
+    <title lang="el">Smash Par 3 - Mauri Andrini</title>
+    <desc lang="el">Smash Par 3 - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126025800 +0200" stop="20261126030100 +0200" channel="ant1plus_padel">
+    <title lang="el">Volley to Volley - Mauri Andrini</title>
+    <desc lang="el">Volley to Volley - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126030100 +0200" stop="20261126030300 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126030300 +0200" stop="20261126030700 +0200" channel="ant1plus_padel">
+    <title lang="el">Tips for the Lobs - Mauri Andrini</title>
+    <desc lang="el">Tips for the Lobs - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126030700 +0200" stop="20261126031100 +0200" channel="ant1plus_padel">
+    <title lang="el">The net - Mauri Andrini</title>
+    <desc lang="el">The net - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126031100 +0200" stop="20261126031500 +0200" channel="ant1plus_padel">
+    <title lang="el">Bandeja : Preparation and Execution - Agustin Gutierrez</title>
+    <desc lang="el">Bandeja : Preparation and Execution - Agustin Gutierrez</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126031500 +0200" stop="20261126031700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126031700 +0200" stop="20261126041300 +0200" channel="ant1plus_padel">
+    <title lang="el">Hexagon Cup Highlight 2026</title>
+    <desc lang="el">Hexagon Cup Highlight 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126041300 +0200" stop="20261126041500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126041500 +0200" stop="20261126052800 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126052800 +0200" stop="20261126053000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126053000 +0200" stop="20261126054100 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126054100 +0200" stop="20261126054300 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126054300 +0200" stop="20261126055400 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126055400 +0200" stop="20261126055600 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126055600 +0200" stop="20261126060900 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126060900 +0200" stop="20261126061100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126061100 +0200" stop="20261126062200 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126062200 +0200" stop="20261126062400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126062400 +0200" stop="20261126063700 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126063700 +0200" stop="20261126063900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126063900 +0200" stop="20261126065600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126065600 +0200" stop="20261126065900 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126065900 +0200" stop="20261126070100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126070100 +0200" stop="20261126070300 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126070300 +0200" stop="20261126070500 +0200" channel="ant1plus_padel">
+    <title lang="el">Trust - Eli Amatriain</title>
+    <desc lang="el">Trust - Eli Amatriain</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126070500 +0200" stop="20261126070800 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126070800 +0200" stop="20261126071000 +0200" channel="ant1plus_padel">
+    <title lang="el">Nonverbal communication - Eli Amatriain</title>
+    <desc lang="el">Nonverbal communication - Eli Amatriain</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126071000 +0200" stop="20261126071400 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126071400 +0200" stop="20261126071600 +0200" channel="ant1plus_padel">
+    <title lang="el">Activation level - Eli Amatriain</title>
+    <desc lang="el">Activation level - Eli Amatriain</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126071600 +0200" stop="20261126071800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126071800 +0200" stop="20261126072100 +0200" channel="ant1plus_padel">
+    <title lang="el">Improve Precision - Rodrigo Ovide</title>
+    <desc lang="el">Improve Precision - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126072100 +0200" stop="20261126072400 +0200" channel="ant1plus_padel">
+    <title lang="el">Serving tips - Rodrigo Ovide</title>
+    <desc lang="el">Serving tips - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126072400 +0200" stop="20261126072600 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126072600 +0200" stop="20261126072900 +0200" channel="ant1plus_padel">
+    <title lang="el">Choose the lob - Rodrigo Ovide</title>
+    <desc lang="el">Choose the lob - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126072900 +0200" stop="20261126073100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126073100 +0200" stop="20261126074500 +0200" channel="ant1plus_padel">
+    <title lang="el">Inside Premier Padel with Rodrigo Ovide</title>
+    <desc lang="el">Inside Premier Padel with Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126074500 +0200" stop="20261126074700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126074700 +0200" stop="20261126075000 +0200" channel="ant1plus_padel">
+    <title lang="el">Tactic - Rodrigo Ovide</title>
+    <desc lang="el">Tactic - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126075000 +0200" stop="20261126075300 +0200" channel="ant1plus_padel">
+    <title lang="el">Open angles in defense - Rodrigo Ovide</title>
+    <desc lang="el">Open angles in defense - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126075300 +0200" stop="20261126075700 +0200" channel="ant1plus_padel">
+    <title lang="el">You&apos;re too much in this area - Rodrigo Ovide</title>
+    <desc lang="el">You&apos;re too much in this area - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126075700 +0200" stop="20261126080100 +0200" channel="ant1plus_padel">
+    <title lang="el">Best Dejadas - Rodrigo Ovide</title>
+    <desc lang="el">Best Dejadas - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126080100 +0200" stop="20261126080300 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126080300 +0200" stop="20261126080500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126080500 +0200" stop="20261126080800 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126080800 +0200" stop="20261126081100 +0200" channel="ant1plus_padel">
+    <title lang="el">Easy Padel - Rodrigo Ovide</title>
+    <desc lang="el">Easy Padel - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126081100 +0200" stop="20261126081300 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Juan AND Paco</title>
+    <desc lang="el">&quot;Juan &amp; Paco</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126081300 +0200" stop="20261126081900 +0200" channel="ant1plus_padel">
+    <title lang="el">Tactic - Rodrigo Ovide</title>
+    <desc lang="el">Tactic - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126081900 +0200" stop="20261126082200 +0200" channel="ant1plus_padel">
+    <title lang="el">AVOID THIS WAY - Rodrigo Ovide</title>
+    <desc lang="el">AVOID THIS WAY - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126082200 +0200" stop="20261126082300 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126082300 +0200" stop="20261126082500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126082500 +0200" stop="20261126082800 +0200" channel="ant1plus_padel">
+    <title lang="el">World Padel Slow Valladolid Master</title>
+    <desc lang="el">World Padel Slow Valladolid Master</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126082800 +0200" stop="20261126083300 +0200" channel="ant1plus_padel">
+    <title lang="el">World Padel Show Valladolid Master</title>
+    <desc lang="el">World Padel Show Valladolid Master</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126083300 +0200" stop="20261126083400 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126083400 +0200" stop="20261126083800 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Recoveries Valladolid Master</title>
+    <desc lang="el">Top 3 Recoveries Valladolid Master</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126083800 +0200" stop="20261126084000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126084000 +0200" stop="20261126084600 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Valladolid Master (W)</title>
+    <desc lang="el">Top 3 Puntazos Valladolid Master (W)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126084600 +0200" stop="20261126085000 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Valladolid Master (M)</title>
+    <desc lang="el">Top 3 Puntazos Valladolid Master (M)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126085000 +0200" stop="20261126085700 +0200" channel="ant1plus_padel">
+    <title lang="el">Juan Lebrón - MVP Valladolid Master</title>
+    <desc lang="el">Juan Lebron - MVP Valladolid Master</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126085700 +0200" stop="20261126085900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126085900 +0200" stop="20261126090500 +0200" channel="ant1plus_padel">
+    <title lang="el">Gemma Triay - MVP Valladolid Master</title>
+    <desc lang="el">Gemma Triay - MVP Valladolid Master</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126090500 +0200" stop="20261126090800 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Miami Open (M)</title>
+    <desc lang="el">Top 3 Puntazos Miami Open (M)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126090800 +0200" stop="20261126091100 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Miami Open (W)</title>
+    <desc lang="el">Top 3 Puntazos Miami Open (W)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126091100 +0200" stop="20261126091300 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126091300 +0200" stop="20261126091700 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Vigo Open (M)</title>
+    <desc lang="el">Top 3 Puntazos Vigo Open (M)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126091700 +0200" stop="20261126092000 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Vigo Open (W)</title>
+    <desc lang="el">Top 3 Puntazos Vigo Open (W)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126092000 +0200" stop="20261126092400 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Alicante Open (W)</title>
+    <desc lang="el">Top 3 Puntazos Alicante Open (W)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126092400 +0200" stop="20261126092600 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126092600 +0200" stop="20261126093100 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Alicante Open (M)</title>
+    <desc lang="el">Top 3 Puntazos Alicante Open (M)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126093100 +0200" stop="20261126093400 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Brussels Open (M)</title>
+    <desc lang="el">Top 3 Puntazos Brussels Open (M)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126093400 +0200" stop="20261126093800 +0200" channel="ant1plus_padel">
+    <title lang="el">Top 3 Puntazos Brussels Padel (W)</title>
+    <desc lang="el">Top 3 Puntazos Brussels Padel (W)</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126093800 +0200" stop="20261126094000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126094000 +0200" stop="20261126094900 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
+    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126094900 +0200" stop="20261126095100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126095100 +0200" stop="20261126100600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
+    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126100600 +0200" stop="20261126100800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126100800 +0200" stop="20261126102400 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
+    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126102400 +0200" stop="20261126102600 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126102600 +0200" stop="20261126103800 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
+    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126103800 +0200" stop="20261126104000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126104000 +0200" stop="20261126105300 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
+    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126105300 +0200" stop="20261126105500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126105500 +0200" stop="20261126110800 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;BULLPADELSHOW 2025 Day 2</title>
+    <desc lang="el">&quot;BULLPADELSHOW 2025 Day 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126110800 +0200" stop="20261126111000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126111000 +0200" stop="20261126120800 +0200" channel="ant1plus_padel">
+    <title lang="el">Agustin Tapia : Hacia La Cima</title>
+    <desc lang="el">Agustin Tapia : Hacia La Cima</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126120800 +0200" stop="20261126121000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126121000 +0200" stop="20261126122500 +0200" channel="ant1plus_padel">
+    <title lang="el">Martin Di Nenno - World Cup AND Dubai Premier Padel</title>
+    <desc lang="el">Martin Di Nenno - World Cup &amp; Dubai Premier Padel</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126122500 +0200" stop="20261126122700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126122700 +0200" stop="20261126124300 +0200" channel="ant1plus_padel">
+    <title lang="el">Martin Di Nenno - Champions in NY PPL</title>
+    <desc lang="el">Martin Di Nenno - Champions in NY PPL</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126124300 +0200" stop="20261126124500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126124500 +0200" stop="20261126125000 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 1</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126125000 +0200" stop="20261126125600 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 2</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126125600 +0200" stop="20261126130300 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 3</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 3</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126130300 +0200" stop="20261126130500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126130500 +0200" stop="20261126131200 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass Ep.4</title>
+    <desc lang="el">Alix Collombon - Beyond the glass Ep.4</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126131200 +0200" stop="20261126131700 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 5</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 5</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126131700 +0200" stop="20261126131900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126131900 +0200" stop="20261126132100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126132100 +0200" stop="20261126141900 +0200" channel="ant1plus_padel">
+    <title lang="el">Agustin Tapia : Hacia La Cima</title>
+    <desc lang="el">Agustin Tapia : Hacia La Cima</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126141900 +0200" stop="20261126142100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126142100 +0200" stop="20261126143600 +0200" channel="ant1plus_padel">
+    <title lang="el">Martin Di Nenno - World Cup AND Dubai Premier Padel</title>
+    <desc lang="el">Martin Di Nenno - World Cup &amp; Dubai Premier Padel</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126143600 +0200" stop="20261126143800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126143800 +0200" stop="20261126144100 +0200" channel="ant1plus_padel">
+    <title lang="el">Improve Precision - Rodrigo Ovide</title>
+    <desc lang="el">Improve Precision - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126144100 +0200" stop="20261126144500 +0200" channel="ant1plus_padel">
+    <title lang="el">Serving tips - Rodrigo Ovide</title>
+    <desc lang="el">Serving tips - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126144500 +0200" stop="20261126144600 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126144600 +0200" stop="20261126144900 +0200" channel="ant1plus_padel">
+    <title lang="el">Choose the lob - Rodrigo Ovide</title>
+    <desc lang="el">Choose the lob - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126144900 +0200" stop="20261126145100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126145100 +0200" stop="20261126150500 +0200" channel="ant1plus_padel">
+    <title lang="el">Inside Premier Padel with Rodrigo Ovide</title>
+    <desc lang="el">Inside Premier Padel with Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126150500 +0200" stop="20261126150700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126150700 +0200" stop="20261126151000 +0200" channel="ant1plus_padel">
+    <title lang="el">Tactic - Rodrigo Ovide</title>
+    <desc lang="el">Tactic - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126151000 +0200" stop="20261126151300 +0200" channel="ant1plus_padel">
+    <title lang="el">Open angles in defense - Rodrigo Ovide</title>
+    <desc lang="el">Open angles in defense - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126151300 +0200" stop="20261126151700 +0200" channel="ant1plus_padel">
+    <title lang="el">You&apos;re too much in this area - Rodrigo Ovide</title>
+    <desc lang="el">You&apos;re too much in this area - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126151700 +0200" stop="20261126151900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126151900 +0200" stop="20261126152300 +0200" channel="ant1plus_padel">
+    <title lang="el">Best Dejadas - Rodrigo Ovide</title>
+    <desc lang="el">Best Dejadas - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126152300 +0200" stop="20261126152500 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126152500 +0200" stop="20261126152700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126152700 +0200" stop="20261126153000 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126153000 +0200" stop="20261126153300 +0200" channel="ant1plus_padel">
+    <title lang="el">Easy Padel - Rodrigo Ovide</title>
+    <desc lang="el">Easy Padel - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126153300 +0200" stop="20261126153600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Juan AND Paco</title>
+    <desc lang="el">&quot;Juan &amp; Paco</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126153600 +0200" stop="20261126154200 +0200" channel="ant1plus_padel">
+    <title lang="el">Tactic - Rodrigo Ovide</title>
+    <desc lang="el">Tactic - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126154200 +0200" stop="20261126154400 +0200" channel="ant1plus_padel">
+    <title lang="el">AVOID THIS WAY - Rodrigo Ovide</title>
+    <desc lang="el">AVOID THIS WAY - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126154400 +0200" stop="20261126154500 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126154500 +0200" stop="20261126154700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126154700 +0200" stop="20261126164300 +0200" channel="ant1plus_padel">
+    <title lang="el">Hexagon Cup Highlight 2026</title>
+    <desc lang="el">Hexagon Cup Highlight 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126164300 +0200" stop="20261126164500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126164500 +0200" stop="20261126165200 +0200" channel="ant1plus_padel">
+    <title lang="el">5 ways to beat your rival - Rodrigo Ovide</title>
+    <desc lang="el">5 ways to beat your rival - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126165200 +0200" stop="20261126165400 +0200" channel="ant1plus_padel">
+    <title lang="el">Smash a la reja - Rodrigo Ovide</title>
+    <desc lang="el">Smash a la reja - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126165400 +0200" stop="20261126165800 +0200" channel="ant1plus_padel">
+    <title lang="el">Defend the fence</title>
+    <desc lang="el">Defend the fence</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126165800 +0200" stop="20261126170000 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126170000 +0200" stop="20261126170300 +0200" channel="ant1plus_padel">
+    <title lang="el">Be decisive in points - Rodrigo Ovide</title>
+    <desc lang="el">Be decisive in points - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126170300 +0200" stop="20261126170800 +0200" channel="ant1plus_padel">
+    <title lang="el">Cover the pista en equipo - Rodrigo Ovide</title>
+    <desc lang="el">Cover the pista en equipo - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126170800 +0200" stop="20261126171200 +0200" channel="ant1plus_padel">
+    <title lang="el">Best Dejadas - Rodrigo Ovide</title>
+    <desc lang="el">Best Dejadas - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126171200 +0200" stop="20261126171400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126171400 +0200" stop="20261126172600 +0200" channel="ant1plus_padel">
+    <title lang="el">Inside Italy Major - Rodrigo Ovide</title>
+    <desc lang="el">Inside Italy Major - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126172600 +0200" stop="20261126172900 +0200" channel="ant1plus_padel">
+    <title lang="el">Smash Par 4 - Rodrigo Ovide</title>
+    <desc lang="el">Smash Par 4 - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126172900 +0200" stop="20261126173200 +0200" channel="ant1plus_padel">
+    <title lang="el">Dominate the Attack - Rodrigo Ovide</title>
+    <desc lang="el">Dominate the Attack - Rodrigo Ovide</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126173200 +0200" stop="20261126173400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126173400 +0200" stop="20261126173500 +0200" channel="ant1plus_padel">
+    <title lang="el">PADEL TIME</title>
+    <desc lang="el">Filler content</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126173500 +0200" stop="20261126173700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126173700 +0200" stop="20261126173900 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Timer Padel Time TV</title>
+    <desc lang="el">&quot;Timer Padel Time TV</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126173900 +0200" stop="20261126174100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126174100 +0200" stop="20261126183900 +0200" channel="ant1plus_padel">
+    <title lang="el">Agustin Tapia : Hacia La Cima</title>
+    <desc lang="el">Agustin Tapia : Hacia La Cima</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126183900 +0200" stop="20261126184100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126184100 +0200" stop="20261126185600 +0200" channel="ant1plus_padel">
+    <title lang="el">Martin Di Nenno - World Cup AND Dubai Premier Padel</title>
+    <desc lang="el">Martin Di Nenno - World Cup &amp; Dubai Premier Padel</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126185600 +0200" stop="20261126185800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126185800 +0200" stop="20261126191400 +0200" channel="ant1plus_padel">
+    <title lang="el">Martin Di Nenno - Champions in NY PPL</title>
+    <desc lang="el">Martin Di Nenno - Champions in NY PPL</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126191400 +0200" stop="20261126191600 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126191600 +0200" stop="20261126192200 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 1</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126192200 +0200" stop="20261126192700 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 2</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 2</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126192700 +0200" stop="20261126193500 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass 3</title>
+    <desc lang="el">Alix Collombon - Beyond the glass 3</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126193500 +0200" stop="20261126193700 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126193700 +0200" stop="20261126194300 +0200" channel="ant1plus_padel">
+    <title lang="el">Alix Collombon - Beyond the glass Ep.4</title>
+    <desc lang="el">Alix Collombon - Beyond the glass Ep.4</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126194300 +0200" stop="20261126194500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126194500 +0200" stop="20261126200200 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126200200 +0200" stop="20261126200400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126200400 +0200" stop="20261126201600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126201600 +0200" stop="20261126201800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126201800 +0200" stop="20261126203000 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126203000 +0200" stop="20261126203200 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126203200 +0200" stop="20261126204300 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126204300 +0200" stop="20261126204500 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126204500 +0200" stop="20261126205600 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126205600 +0200" stop="20261126205800 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126205800 +0200" stop="20261126211200 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</title>
+    <desc lang="el">&quot;PPL FINALS D2 - NEW YORK v HOUSTON</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126211200 +0200" stop="20261126211400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126211400 +0200" stop="20261126212700 +0200" channel="ant1plus_padel">
+    <title lang="el">Defending - Mauri Andrini</title>
+    <desc lang="el">Defending - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126212700 +0200" stop="20261126212900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126212900 +0200" stop="20261126213200 +0200" channel="ant1plus_padel">
+    <title lang="el">After Chiquita Shot - Mauri Andrini</title>
+    <desc lang="el">After Chiquita Shot - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126213200 +0200" stop="20261126213600 +0200" channel="ant1plus_padel">
+    <title lang="el">Preparation for back wall - Mauri Andrini</title>
+    <desc lang="el">Preparation for back wall - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126213600 +0200" stop="20261126214000 +0200" channel="ant1plus_padel">
+    <title lang="el">Paralell smash - Mauri Andrini</title>
+    <desc lang="el">Paralell smash - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126214000 +0200" stop="20261126214400 +0200" channel="ant1plus_padel">
+    <title lang="el">The Fence - Mauri Andrini</title>
+    <desc lang="el">The Fence - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126214400 +0200" stop="20261126214600 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126214600 +0200" stop="20261126215600 +0200" channel="ant1plus_padel">
+    <title lang="el">Smash - Mauri Andrini</title>
+    <desc lang="el">Smash - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126215600 +0200" stop="20261126215900 +0200" channel="ant1plus_padel">
+    <title lang="el">Fake smash - Mauri Andrini</title>
+    <desc lang="el">Fake smash - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126215900 +0200" stop="20261126220100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126220100 +0200" stop="20261126221500 +0200" channel="ant1plus_padel">
+    <title lang="el">Smash Par 3 - Mauri Andrini</title>
+    <desc lang="el">Smash Par 3 - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126221500 +0200" stop="20261126221700 +0200" channel="ant1plus_padel">
+    <title lang="el">Volley to Volley - Mauri Andrini</title>
+    <desc lang="el">Volley to Volley - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126221700 +0200" stop="20261126221900 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126221900 +0200" stop="20261126222300 +0200" channel="ant1plus_padel">
+    <title lang="el">Tips for the Lobs - Mauri Andrini</title>
+    <desc lang="el">Tips for the Lobs - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126222300 +0200" stop="20261126222800 +0200" channel="ant1plus_padel">
+    <title lang="el">The net - Mauri Andrini</title>
+    <desc lang="el">The net - Mauri Andrini</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126222800 +0200" stop="20261126223200 +0200" channel="ant1plus_padel">
+    <title lang="el">Bandeja : Preparation and Execution - Agustin Gutierrez</title>
+    <desc lang="el">Bandeja : Preparation and Execution - Agustin Gutierrez</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126223200 +0200" stop="20261126223400 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126223400 +0200" stop="20261126232900 +0200" channel="ant1plus_padel">
+    <title lang="el">Hexagon Cup Highlight 2026</title>
+    <desc lang="el">Hexagon Cup Highlight 2026</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126232900 +0200" stop="20261126233100 +0200" channel="ant1plus_padel">
+    <title lang="el">trailer_padletimetv_2min.mp4 - 1</title>
+    <desc lang="el">trailer_padletimetv_2min.mp4 - 1</desc>
+    <category lang="el">FIGHT</category>
+  </programme>
+  <programme start="20261126233100 +0200" stop="20261127004500 +0200" channel="ant1plus_padel">
+    <title lang="el">&quot;Hexagon Cup 2026</title>
+    <desc lang="el">&quot;Hexagon Cup 2026</desc>
+    <category lang="el">FIGHT</category>
   </programme>
   <programme start="20261121110000 +0200" stop="20261121130000 +0200" channel="sportfm_tv1">
     <title lang="el">Περιστέρι Betsson – Μύκονος Betsson BC</title>
@@ -10705,6 +11263,54 @@
     <title lang="el">Κολοσσός H Hotels Collection – Προμηθέας Πάτρας Βίκος Cola</title>
     <desc lang="el">GBL MD8</desc>
   </programme>
+  <programme start="20261127120000 +0200" stop="20261127140000 +0200" channel="sportfm_tv1">
+    <title lang="el">Αστέρας Τρίπολης – Κηφισιά</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261127140000 +0200" stop="20261127160000 +0200" channel="sportfm_tv1">
+    <title lang="el">Δόξα Λευκάδας – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261127160000 +0200" stop="20261127180000 +0200" channel="sportfm_tv1">
+    <title lang="el">Πανσερραϊκός – Νίκη Βόλου</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261127180000 +0200" stop="20261127200000 +0200" channel="sportfm_tv1">
+    <title lang="el">Βόλος – Ατρόμητος</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261127200000 +0200" stop="20261127220000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός – ΟΦΗ</title>
+    <desc lang="el">Super League MD11</desc>
+  </programme>
+  <programme start="20261127220000 +0200" stop="20261128000000 +0200" channel="sportfm_tv1">
+    <title lang="el">THE BALL BOYS (LIVE)</title>
+    <desc lang="el">Εκπομπή</desc>
+  </programme>
+  <programme start="20261128000000 +0200" stop="20261128020000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – Άρης</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261128020000 +0200" stop="20261128040000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός AKTOR – Μαρούσι</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261128040000 +0200" stop="20261128060000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261128060000 +0200" stop="20261128080000 +0200" channel="sportfm_tv1">
+    <title lang="el">Μαρκό – Ολυμπιακός</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261128080000 +0200" stop="20261128100000 +0200" channel="sportfm_tv1">
+    <title lang="el">Νέστος Χρυσούπολης – Καλαμάτα</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261128100000 +0200" stop="20261128120000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – ΑΕΚ</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
   <programme start="20261121173000 +0200" stop="20261121200000 +0200" channel="sportfm_tv2">
     <title lang="el">Παναθηναϊκός AKTOR – Μαρούσι (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 8η αγωνιστική · Σάββατο 21/11, 17:30 · Ζωντανά</desc>
@@ -10717,10 +11323,6 @@
     <title lang="el">Ηρακλής – ΑΕΚ (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 8η αγωνιστική · Σάββατο 21/11, 15:00 · Ζωντανά</desc>
   </programme>
-  <programme start="20261122130000 +0200" stop="20261122160000 +0200" channel="sportfm_tv3">
-    <title lang="el">Παναθηναικός - ΑΕΚ (LIVE)</title>
-    <desc lang="el">Womens Football League MD8</desc>
-  </programme>
   <programme start="20261121160000 +0200" stop="20261121183000 +0200" channel="sportfm_tv4">
     <title lang="el">Κολοσσός H Hotels Collection – Προμηθέας Πάτρας Βίκος Cola (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 8η αγωνιστική · Σάββατο 21/11, 16:00 · Ζωντανά</desc>
@@ -10728,5 +11330,9 @@
   <programme start="20261121170000 +0200" stop="20261121193000 +0200" channel="sportfm_tv5">
     <title lang="el">Δόξα Λευκάδας ELABET – Περιστέρι Betsson (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 8η αγωνιστική · Σάββατο 21/11, 17:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261122173000 +0200" stop="20261122200000 +0200" channel="sportfm_tv6">
+    <title lang="el">Παναθηναϊκός – ΟΦΗ | 4K (LIVE)</title>
+    <desc lang="el">Stoiximan Super League · 11η αγωνιστική · Κυριακή 22/11, 17:30 · Ζωντανά · 4K</desc>
   </programme>
 </tv>
