@@ -47,19 +47,19 @@
   </channel>
   <channel id="sportfm_tv3">
     <display-name>SPORT FM TV 3</display-name>
-    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-3.svg"/>
+    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1790855250763-SportFM_TV3_logo_1024.jpg"/>
   </channel>
   <channel id="sportfm_tv4">
     <display-name>SPORT FM TV 4</display-name>
-    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-4.svg"/>
+    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1790939327085-SportFM_TV4_logo_1024.jpg"/>
   </channel>
   <channel id="sportfm_tv5">
     <display-name>SPORT FM TV 5</display-name>
-    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-5.svg"/>
+    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1790939352517-SportFM_TV5_logo_1024.jpg"/>
   </channel>
   <channel id="sportfm_tv6">
     <display-name>SPORT FM TV 6</display-name>
-    <icon src="https://static.yinzcam.com/api/venues/pao/prod/assets/channel-logos/channel-6.svg"/>
+    <icon src="https://cmscdnus.yinzcam.com/graffiti/private/ott/content/thumbnails/1793123673590-SportFM_TV6_logo_1024.jpg"/>
   </channel>
   <programme start="20261126050000 +0200" stop="20261126053000 +0200" channel="ant1">
     <title lang="el">ΕΛΛΗ ΚΑΙ ΑΝΝΑ</title>
@@ -9646,50 +9646,6 @@
     <desc lang="el">No data available for this date</desc>
     <category lang="el">FIGHT</category>
   </programme>
-  <programme start="20261126115500 +0200" stop="20261126140000 +0200" channel="sportfm_tv1">
-    <title lang="el">Ηρακλής – ΑΕΚ</title>
-    <desc lang="el">GBL MD8</desc>
-  </programme>
-  <programme start="20261126140000 +0200" stop="20261126160000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261126160000 +0200" stop="20261126183000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΠΑΟΚ – Άρης</title>
-    <desc lang="el">GBL MD8</desc>
-  </programme>
-  <programme start="20261126183000 +0200" stop="20261126210000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός – Γκέας (LIVE)</title>
-    <desc lang="el">EuroCup Women · 5η αγωνιστική · Πέμπτη 26/11, 18:30 · Ζωντανά</desc>
-  </programme>
-  <programme start="20261126210000 +0200" stop="20261126230000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός – ΟΦΗ</title>
-    <desc lang="el">Super League MD11</desc>
-  </programme>
-  <programme start="20261126230000 +0200" stop="20261127000000 +0200" channel="sportfm_tv1">
-    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
-    <desc lang="el">Στιγμιότυπα</desc>
-  </programme>
-  <programme start="20261127000000 +0200" stop="20261127020000 +0200" channel="sportfm_tv1">
-    <title lang="el">THE BALL BOYS (LIVE)</title>
-    <desc lang="el">Εκπομπή</desc>
-  </programme>
-  <programme start="20261127020000 +0200" stop="20261127040000 +0200" channel="sportfm_tv1">
-    <title lang="el">Νέστος Χρυσούπολης – Καλαμάτα</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261127040000 +0200" stop="20261127060000 +0200" channel="sportfm_tv1">
-    <title lang="el">Παναθηναϊκός – Άρης</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261127060000 +0200" stop="20261127083000 +0200" channel="sportfm_tv1">
-    <title lang="el">Ηρακλής – ΑΕΚ</title>
-    <desc lang="el">GBL MD8</desc>
-  </programme>
-  <programme start="20261127083000 +0200" stop="20261127103000 +0200" channel="sportfm_tv1">
-    <title lang="el">Μαρκό – Ολυμπιακός</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
   <programme start="20261127103000 +0200" stop="20261127123000 +0200" channel="sportfm_tv1">
     <title lang="el">Κολοσσός H Hotels Collection – Προμηθέας Πάτρας Βίκος Cola</title>
     <desc lang="el">GBL MD8</desc>
@@ -9838,8 +9794,244 @@
     <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
     <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
   </programme>
+  <programme start="20261130060000 +0200" stop="20261130075500 +0200" channel="sportfm_tv1">
+    <title lang="el">Μαρκό – Ολυμπιακός</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261130075500 +0200" stop="20261130100000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – ΑΕΚ</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261130100000 +0200" stop="20261130120000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός – Άρης</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261130120000 +0200" stop="20261130140000 +0200" channel="sportfm_tv1">
+    <title lang="el">Κολοσσός H Hotels Collection – Προμηθέας Πάτρας Βίκος Cola</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261130140000 +0200" stop="20261130160000 +0200" channel="sportfm_tv1">
+    <title lang="el">Δόξα Λευκάδας – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261130160000 +0200" stop="20261130180000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός AKTOR – Μαρούσι</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261130180000 +0200" stop="20261130200000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261130200000 +0200" stop="20261130220000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – Άρης</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261130220000 +0200" stop="20261201000000 +0200" channel="sportfm_tv1">
+    <title lang="el">Μύκονος Betsson BC – VIKOS ΦALCONS</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261201000000 +0200" stop="20261201020000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – Παναιτωλικός</title>
+    <desc lang="el">Super League MD12</desc>
+  </programme>
+  <programme start="20261201020000 +0200" stop="20261201040000 +0200" channel="sportfm_tv1">
+    <title lang="el">Βόλος – Ατρόμητος</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261201040000 +0200" stop="20261201060000 +0200" channel="sportfm_tv1">
+    <title lang="el">Καρδίτσα Ιαπωνική – Ολυμπιακός</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261201060000 +0200" stop="20261201080000 +0200" channel="sportfm_tv1">
+    <title lang="el">Μύκονος Betsson BC – VIKOS ΦALCONS</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261201080000 +0200" stop="20261201100000 +0200" channel="sportfm_tv1">
+    <title lang="el">Νέστος Χρυσούπολης – Καλαμάτα</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261201100000 +0200" stop="20261201120000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός AKTOR – Μαρούσι</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261201120000 +0200" stop="20261201140000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός – Άρης</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261201140000 +0200" stop="20261201160000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – Παναιτωλικός</title>
+    <desc lang="el">Super League MD12</desc>
+  </programme>
+  <programme start="20261201160000 +0200" stop="20261201180000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – Άρης</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261201180000 +0200" stop="20261201203000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – ΑΕΚ</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261201203000 +0200" stop="20261201210000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
+    <desc lang="el">Στιγμιότυπα</desc>
+  </programme>
+  <programme start="20261201210000 +0200" stop="20261201230000 +0200" channel="sportfm_tv1">
+    <title lang="el">THE BALL BOYS (LIVE)</title>
+    <desc lang="el">Εκπομπή</desc>
+  </programme>
+  <programme start="20261201230000 +0200" stop="20261202010000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΑΕΛ – ΟΦΗ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202010000 +0200" stop="20261202030000 +0200" channel="sportfm_tv1">
+    <title lang="el">Καρδίτσα Ιαπωνική – Ολυμπιακός</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261202030000 +0200" stop="20261202050000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – Παναιτωλικός</title>
+    <desc lang="el">Super League MD12</desc>
+  </programme>
+  <programme start="20261202050000 +0200" stop="20261202060000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
+    <desc lang="el">Στιγμιότυπα</desc>
+  </programme>
+  <programme start="20261202060000 +0200" stop="20261202080000 +0200" channel="sportfm_tv1">
+    <title lang="el">Αστέρας Τρίπολης – Κηφισιά</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202080000 +0200" stop="20261202100000 +0200" channel="sportfm_tv1">
+    <title lang="el">Νέστος Χρυσούπολης – Καλαμάτα</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202100000 +0200" stop="20261202120000 +0200" channel="sportfm_tv1">
+    <title lang="el">Μαρκό – Ολυμπιακός</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202120000 +0200" stop="20261202140000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΑΕΛ – ΟΦΗ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202140000 +0200" stop="20261202160000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202160000 +0200" stop="20261202180000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός – Άρης</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261202180000 +0200" stop="20261202183500 +0200" channel="sportfm_tv1">
+    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
+    <desc lang="el">Στιγμιότυπα</desc>
+  </programme>
+  <programme start="20261202183500 +0200" stop="20261202210000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΛΕΠΤΟ ΠΡΟΣ ΛΕΠΤΟ (LIVE)</title>
+    <desc lang="el">Εκπομπή</desc>
+  </programme>
+  <programme start="20261202210000 +0200" stop="20261202230000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΩΡΑ ΚΥΠΕΛΛΟΥ (LIVE)</title>
+    <desc lang="el">Εκπομπή</desc>
+  </programme>
+  <programme start="20261202230000 +0200" stop="20261203010000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ολυμπιακός – Παναθηναϊκός</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261203010000 +0200" stop="20261203030000 +0200" channel="sportfm_tv1">
+    <title lang="el">Καρδίτσα Ιαπωνική – Ολυμπιακός</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261203030000 +0200" stop="20261203053000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – ΑΕΚ</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261203053000 +0200" stop="20261203060000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
+    <desc lang="el">Στιγμιότυπα</desc>
+  </programme>
+  <programme start="20261203060000 +0200" stop="20261203080000 +0200" channel="sportfm_tv1">
+    <title lang="el">Δόξα Λευκάδας – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261203080000 +0200" stop="20261203103000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – ΑΕΚ</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261203103000 +0200" stop="20261203123000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – Άρης</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261203123000 +0200" stop="20261203143000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός – ΟΦΗ</title>
+    <desc lang="el">Super League MD11</desc>
+  </programme>
+  <programme start="20261203143000 +0200" stop="20261203163000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΑΕΚ – Αστέρας Τρίπολης</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261203163000 +0200" stop="20261203183000 +0200" channel="sportfm_tv1">
+    <title lang="el">Άρης – Πανσερραϊκός</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261203183000 +0200" stop="20261203210000 +0200" channel="sportfm_tv1">
+    <title lang="el">Παναθηναϊκός – Κάστορ Μπρεν (LIVE)</title>
+    <desc lang="el">EuroCup Women · 6η αγωνιστική · Πέμπτη 3/12, 18:30 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261203210000 +0200" stop="20261203230000 +0200" channel="sportfm_tv1">
+    <title lang="el">THE BALL BOYS (LIVE)</title>
+    <desc lang="el">Εκπομπή</desc>
+  </programme>
+  <programme start="20261203230000 +0200" stop="20261204010000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – Παναιτωλικός</title>
+    <desc lang="el">Super League MD12</desc>
+  </programme>
+  <programme start="20261204010000 +0200" stop="20261204030000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΠΑΟΚ – Άρης</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261204030000 +0200" stop="20261204050000 +0200" channel="sportfm_tv1">
+    <title lang="el">Δόξα Λευκάδας – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261204050000 +0200" stop="20261204060000 +0200" channel="sportfm_tv1">
+    <title lang="el">ΣΠΟΡ FM TV Highlights</title>
+    <desc lang="el">Στιγμιότυπα</desc>
+  </programme>
+  <programme start="20261204060000 +0200" stop="20261204083000 +0200" channel="sportfm_tv1">
+    <title lang="el">Ηρακλής – ΑΕΚ</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
+  <programme start="20261204083000 +0200" stop="20261204103000 +0200" channel="sportfm_tv1">
+    <title lang="el">Καλαμάτα – ΠΑΟΚ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261204103000 +0200" stop="20261204123000 +0200" channel="sportfm_tv1">
+    <title lang="el">Κολοσσός H Hotels Collection – Προμηθέας Πάτρας Βίκος Cola</title>
+    <desc lang="el">GBL MD8</desc>
+  </programme>
   <programme start="20261129150000 +0200" stop="20261129173000 +0200" channel="sportfm_tv2">
     <title lang="el">Παναθηναϊκός – ΠΑΣ Γιάννινα (LIVE)</title>
     <desc lang="el">Allwyn WBL1 · 8η αγωνιστική · Κυριακή 29/11, 15:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261201213000 +0200" stop="20261201230000 +0200" channel="sportfm_tv2">
+    <title lang="el">Φερεντσβάρος – Παναθηναϊκός (LIVE)</title>
+    <desc lang="el">Water Polo Champions League · Τρίτη 1/12, 21:30 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261202190000 +0200" stop="20261202213000 +0200" channel="sportfm_tv2">
+    <title lang="el">ΑΕΚ – Αστέρας Τρίπολης (LIVE)</title>
+    <desc lang="el">Superbet Κύπελλο Ελλάδας · League Phase · Τετάρτη 2/12, 19:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261202190000 +0200" stop="20261202213000 +0200" channel="sportfm_tv3">
+    <title lang="el">Καλαμάτα – ΠΑΟΚ (LIVE)</title>
+    <desc lang="el">Superbet Κύπελλο Ελλάδας · League Phase · Τετάρτη 2/12, 19:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261202190000 +0200" stop="20261202213000 +0200" channel="sportfm_tv4">
+    <title lang="el">Ολυμπιακός – Παναθηναϊκός (LIVE)</title>
+    <desc lang="el">Superbet Κύπελλο Ελλάδας · League Phase · Τετάρτη 2/12, 19:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261202190000 +0200" stop="20261202213000 +0200" channel="sportfm_tv5">
+    <title lang="el">Άρης – Πανσερραϊκός (LIVE)</title>
+    <desc lang="el">Superbet Κύπελλο Ελλάδας · League Phase · Τετάρτη 2/12, 19:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261202190000 +0200" stop="20261202213000 +0200" channel="sportfm_tv6">
+    <title lang="el">Ατρόμητος – Νέστος Χρυσούπολης (LIVE)</title>
+    <desc lang="el">Superbet Κύπελλο Ελλάδας · League Phase · Τετάρτη 2/12, 19:00 · Ζωντανά</desc>
   </programme>
 </tv>
